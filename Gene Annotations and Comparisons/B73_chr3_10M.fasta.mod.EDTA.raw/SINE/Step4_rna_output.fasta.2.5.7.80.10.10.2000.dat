@@ -1,0 +1,29 @@
+Tandem Repeats Finder Program written by:
+
+Gary Benson
+Program in Bioinformatics
+Boston University
+Version 4.10.0-rc.2
+
+
+Sequence: NC_050098.1 + 1690767:1691056|tsd_l:11|tsd_s:1690767|tsd_e:1691064|blast_s:1690767|blast_e:1691056|blast_count:7|blast_l:497|tRNA
+
+
+
+Parameters: 2 5 7 80 10 10 2000
+
+
+141 159 6 3.2 6 92 0 31 5 52 26 15 1.64 CCCGGT CCCGATCCCGGTCCCGGTC
+283 289 1 7.0 1 100 0 14 0 0 0 100 0.00 T TTTTTTT
+
+
+Sequence: NC_050098.1 F 3864579:3864875|tsd_l:11|tsd_s:3864589|tsd_e:3864890|blast_s:3864491|blast_e:3864989|blast_count:16|blast_l:501|tRNA
+
+
+
+Parameters: 2 5 7 80 10 10 2000
+
+
+31 37 3 2.3 3 100 0 14 28 0 0 71 0.86 TTA TTATTAT
+237 260 12 2.1 11 92 7 39 8 33 4 54 1.50 TACCTTTCTTC TACCTTTGCTTCTACCTTTCTTCT
+377 382 1 6.0 1 100 0 12 0 0 0 100 0.00 T TTTTTT

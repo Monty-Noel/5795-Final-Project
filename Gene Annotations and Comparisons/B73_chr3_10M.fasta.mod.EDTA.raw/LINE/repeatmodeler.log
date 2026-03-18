@@ -1,0 +1,9 @@
+
+ERROR: The -pa parameter has been deprecated.  Please use the newer
+      "-threads #" parameter which precisely controls the maximum
+       number of simultaneous threads this program will use. Note that
+       the -pa parameter previously controlled the number of simultaneous
+       batches each run with rmblast using 4 threads, therefore -pa 4 could
+       potentially have used up to 16 threads.  Keep this in mind when
+       comparing runtime differences between versions.
+

@@ -1,0 +1,208 @@
+## RepeatMasker version 4.2.2 , rushjob mode
+## run with rmblastn version 2.14.1+
+## RM Library: 
+## Total Sequences: 236
+## Total Length: 961086
+## Total NonMask ( excluding >20bp runs of N/X bases ): 961086
+## Total NonSub ( excluding all non ACGT bases ):961086
+## RAW Annotations:
+253 18.97 4.80 14.83 NC_050098.1:9407209..9417304_LTR#LTR/unknown 629 857 (2678) C Os0014#DNAauto/CACTG (5173) 6158 5950 m_b3s001i0
+
+  NC_050098.1:9        629 TCGTTCGATCGTTCTTCGAT---CGTTCGTCCCCCTGTTCTTAGTT-TGT 674
+                                  v       i--  ---       i v i      i v i-i  
+C Os0014#DNAaut       6158 TCGTTCGCTCGTTCTC--ATTCACGTTCGTTCGCTTGTTCTCATTCACGT 6111
+
+  NC_050098.1:9        675 TCGTTCGTTCGTCCGATCGTTCGATCGTTCGTCCGATCGTTCATGGTTCG 724
+                                 vi    i --   i i -  -    vi         - v    -
+C Os0014#DNAaut       6110 TCGTTCCCTCGTTC--TCGCTTG-TC-TTCGATCGATCGTTC-TCGTTC- 6067
+
+  NC_050098.1:9        725 TTCG-TC-CGTTCGTTCGATCGTTCGATCGTTCGTCCGTTCGTTCGTCCA 772
+                           -   -  -                 --      ------      -----
+C Os0014#DNAaut       6066 -TCGCTCTCGTTCGTTCGATCGTTC--TCGTTC------TCGTTC----- 6031
+
+  NC_050098.1:9        773 AATAATCTTTTTCCTACCAT-TATGCTGCCGAA---ATTC-CGATCGTTC 817
+                           ---- iv  i iv vi v i-  i i  v  vi---i   -  v  --  
+C Os0014#DNAaut       6030 ----ACGTTCTCGCGGCAACGTACGTTGACGTGTTCGTTCTCGCTC--TC 5987
+
+  NC_050098.1:9        818 GTTCGTTCGATCATTCGATCGTTCATCGTTCGTTCATAGT 857
+                                       i   --      -         v ii  
+C Os0014#DNAaut       5986 GTTCGTTCGATCGTTC--TCGTTC-TCGTTCGTTAACGGT 5950
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 16.83
+CpG sites = 23, Kimura (unadjusted) = 21.86
+Transitions / transversions = 1.64 (23/14)
+Gap_init rate = 0.17 (38 / 228), avg. gap size = 1.11 (42 / 38)
+
+235 23.81 0.00 0.00 NC_050098.1:158940..145040_INT#LTR/unknown 1430 1492 (11151) Os3256#DNAauto/MLE 700 762 (2504) m_b4s001i0
+
+  NC_050098.1:1       1430 CGGCGGTGAGGACGAGGACGACGACGACGACGGCGGCGACGACGACGACG 1479
+                               i i  v     v i  i  i ii  i                ii  
+  Os3256#DNAaut        700 CGGCAGCGACGACGATGGCGGCGGCAGCGGCGGCGGCGACGACGACAGCG 749
+
+  NC_050098.1:1       1480 ATGGCGGCGGTGA 1492
+                           ii        i  
+  Os3256#DNAaut        750 GCGGCGGCGGCGA 762
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 23.86
+CpG sites = 13, Kimura (unadjusted) = 31.03
+Transitions / transversions = 6.50 (13/2)
+Gap_init rate = 0.00 (0 / 62), avg. gap size = 0.0 (0 / 0)
+
+310 16.23 4.05 8.45 NC_050098.1:2513366..2518612_INT#LTR/unknown 4525 4598 (111) Os3519#DNAauto/hAT 3287 3357 (801) m_b5s001i0
+
+  NC_050098.1:2       4525 ATAGTTGTTGTACTCTTTTTCCCTT--GGTGAGTTTT-CTTGAAGTTTCT 4571
+                                               i    --  v  iiii -   v i -----
+  Os3519#DNAaut       3287 ATAGTTGTTGTACTCTTTTTTCCTTACGGGGAACCCTACTTTAGG----- 3331
+
+  NC_050098.1:2       4572 CACATGAGGTTTTTAACGAGGCAACAA 4598
+                           -i i i                     
+  Os3519#DNAaut       3332 -GCGTAAGGTTTTTAACGAGGCAACAA 3357
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 17.09
+CpG sites = 9, Kimura (unadjusted) = 18.93
+Transitions / transversions = 4.50 (9/2)
+Gap_init rate = 0.11 (8 / 73), avg. gap size = 1.12 (9 / 8)
+
+287 15.28 11.11 0.00 NC_050098.1:7872751..7880227_INT#LTR/unknown 894 965 (5531) C Os0228#DNAauto/hAT (609) 2959 2880 m_b11s001i0
+
+  NC_050098.1:7        894 ATGTTGCCTCGTTAAAAACTTTG-AATG-AGAAACCCAAACAGG-----G 936
+                              i                   -v   - i    i  v vi  ----- 
+C Os0228#DNAaut       2959 ATGCTGCCTCGTTAAAAACTTTGTCATGTAAAAACTCATAGGGGAAAATG 2910
+
+  NC_050098.1:7        937 AAAAACTCATG-CAAAGAAAAGAGTACAAC 965
+                            i   vi    -                i 
+C Os0228#DNAaut       2909 AGAAAACCATGACAAAGAAAAGAGTACAGC 2880
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 17.33
+CpG sites = 7, Kimura (unadjusted) = 17.33
+Transitions / transversions = 1.75 (7/4)
+Gap_init rate = 0.06 (4 / 71), avg. gap size = 2.00 (8 / 4)
+
+237 28.43 0.98 0.00 NC_050098.1:8085540..8099646_INT#LTR/Gypsy 11364 11465 (1398) C Os2981#DNAnona/CACTA (275) 154 52 m_b12s001i0
+
+  NC_050098.1:8      11364 CGCCGCCGCCTCTGCCGCTGCCGTCGCCGTCGTCGTCATCATCGCCGTCG 11413
+                              v      iiivi  iv i  v             i  i  i    i 
+C Os2981#DNAnon        154 CGCAGCCGCCCTCCTCGTGGTCGGCGCCGTCGTCGTCGTCGTCACCGTTG 105
+
+  NC_050098.1:8      11414 TCGTCAT-CATCGTCGTCGTCGTCGTCGTCTTCACCCTCGTCGCCGCCGT 11462
+                                i - ii  i  ii        i i v iii  v i        v 
+C Os2981#DNAnon        104 TCGTCGTCCGCCGCCGCTGTCGTCGTTGCCGTTGTCCGCATCGCCGCCTT 55
+
+  NC_050098.1:8      11463 CCG 11465
+                              
+C Os2981#DNAnon         54 CCG 52
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 31.75
+CpG sites = 22, Kimura (unadjusted) = 38.35
+Transitions / transversions = 3.14 (22/7)
+Gap_init rate = 0.01 (1 / 101), avg. gap size = 1.00 (1 / 1)
+
+725 18.92 2.33 4.76 NC_050098.1:8143819..8150698_INT#LTR/Copia 3566 3737 (1416) Os2019#DNAnona/hAT 1 168 (795) m_b12s001i1
+
+  NC_050098.1:8       3566 TAGGGCTGGACAAAATGCTCGTGGCTCGCTGGCTCGCTCGTTTCATGGTC 3615
+                                      i   vi     i     i i    i    vi  i viii
+  Os2019#DNAnon          1 TAGGGCTGGACGAAAAACTCGTAGCTCGTTAGCTCACTCGGCTCGTCACT 50
+
+  NC_050098.1:8       3616 AGCTCGGCTCGGCTCGGATCGGCTCGTT-TGAATTTTGTCACGAGCTGAG 3664
+                                        -----          -      ii- v      i   
+  Os2019#DNAnon         51 AGCTCGGCTCGGC-----TCGGCTCGTTGTGAATTCC-TAACGAGCCGAG 94
+
+  NC_050098.1:8       3665 CTGACATCCTAGCTCGGTTCGT--TAACGAGCCAGCTCG-GTTCGTTAAC 3711
+                            ii ii ii      -   v  --               - i v i vi 
+  Os2019#DNAnon         95 CCAATGTTTTAGCTC-GTTAGTCATAACGAGCCAGCTCGAGCTGGCTCGC 143
+
+  NC_050098.1:8       3712 GAGCCAGCTCGCGAGCTAAACGAGCT 3737
+                              -      i               
+  Os2019#DNAnon        144 GAG-CAGCTCACGAGCTAAACGAGCT 168
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 19.46
+CpG sites = 24, Kimura (unadjusted) = 22.66
+Transitions / transversions = 3.43 (24/7)
+Gap_init rate = 0.06 (11 / 171), avg. gap size = 1.09 (12 / 11)
+
+910 17.86 0.00 0.00 NC_050098.1:8143819..8150698_INT#LTR/Copia 4063 4230 (923) Os0147#DNAauto/hAT 4092 4259 (0) m_b12s001i2
+
+  NC_050098.1:8       4063 TGCTCTGGCTCGCGAGCTAAACGAGCAAGCTCGAGCTCGTAAACGAGTCG 4112
+                             v i             v       v          iv        i  
+  Os0147#DNAaut       4092 TGGTTTGGCTCGCGAGCTTAACGAGCTAGCTCGAGCTTTTAAACGAGCCG 4141
+
+  NC_050098.1:8       4113 AGCCGAGCTGACTCTGTGGCTCGTTACCTTAACGAGCCGAGCCGAGCTGG 4162
+                                     iv i v i        vvv                  ii 
+  Os0147#DNAaut       4142 AGCCGAGCTGGGTTTTTAGCTCGTTAGGATAACGAGCCGAGCCGAGCCAG 4191
+
+  NC_050098.1:8       4163 CTCGTTAGCTTAACGAGCCAGCTCGAACTCGGACGAGCCGAGCCGAGCTG 4212
+                                  v i        ivvvi   i ivi v                 
+  Os0147#DNAaut       4192 CTCGTTATCCTAACGAGCTTTACCGAGCCGAGCCGAGCCGAGCCGAGCTG 4241
+
+  NC_050098.1:8       4213 GCTCGTTATCCACCCCTA 4230
+                                v            
+  Os0147#DNAaut       4242 GCTCGATATCCACCCCTA 4259
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 19.75
+CpG sites = 14, Kimura (unadjusted) = 20.47
+Transitions / transversions = 0.88 (14/16)
+Gap_init rate = 0.00 (0 / 167), avg. gap size = 0.0 (0 / 0)
+
+767 21.40 9.55 11.64 NC_050098.1:8177308..8166505_INT#LTR/unknown 3894 4427 (5433) C Os3550#DNAnona/hAT (0) 524 1 m_b12s001i3
+
+  NC_050098.1:8       3894 TAGGGCTGGAAACGAGCCGAGCCGAGCTCGGCTCGGCTCGGCTCGGTGCG 3943
+                                           ii         iii        i    i vv i 
+C Os3550#DNAnon        524 TAGGGCTGGAAACGAGTTGAGCCGAGCCTAGCTCGGCTTGGCTTGCAGTG 475
+
+  NC_050098.1:8       3944 GCTCGGTGCC--TGAACGAG-CTCGGCTAGGCTCGGCTCGTCCATTCC-- 3988
+                                ---- -- i   v  -  i    v         i ---i  iv--
+C Os3550#DNAnon        474 GCTCG----CAATAAACTAGGCTTGGCTTGGCTCGGCTTG---GTTTGGG 432
+
+  NC_050098.1:8       3989 --ACGAGCTGGTGAAA---GAGGCTCGGCTCGGCTCGAC-CTTGGCTCGC 4032
+                           --  i i  i---   ---   -       i    i vi- i       -
+C Os3550#DNAnon        431 AAACAAACTA---AAACTTGAG-CTCGGCTTGGCTTGTTTCCTGGCTCG- 387
+
+  NC_050098.1:8       4033 GAGCCGGCTCG-----GCTCGCGAGCCATATT-TTGGTACTTTTCGTTAC 4076
+                           -    i     ----- i i  i    v vi -  iiv  vii  v i i
+C Os3550#DNAnon        386 -AGCCAGCTCGAGCTGGTTTGCAAGCCTTCCTGTTAAAACACCTCTTCAT 338
+
+  NC_050098.1:8       4077 AT-TATTTGGTGAATTAACATTATATAAATTTGAAATATAGAATCATCAT 4125
+                             -     v  -     ---   v v   vi--   v vvi        -
+C Os3550#DNAnon        337 ATATATTTTGT-AATTA---TTAAAAAAAGC--AAAGAACAAATCATCA- 295
+
+  NC_050098.1:8       4126 TCTACATTATGAGTAAA--TTAAATTATAACTTGTAATATATTCATCA-- 4171
+                           ---    -----     --      ---  v  v--         vi --
+C Os3550#DNAnon        294 ---ACAT-----GTAAAATTTAAAT---AAGTTT--ATATATTCAATAGT 258
+
+  NC_050098.1:8       4172 TCAAAGACTAAA----AAAT---GAGCT-----ATTAT----CCATA-AA 4204
+                                iv  v  ----    ---i  i -----  v  ----     -  
+C Os3550#DNAnon        257 TCAAAATCTTAATGATAAATTTCAAGTTGACAAATAATAACGCCATATAA 208
+
+  NC_050098.1:8       4205 ATTATCTAATATTCATTATTATTCCATAAATTGACCATTTTTGCAAGGCT 4254
+                            v  v--    v  iv   v viv  ii --  i  ----- ---     
+C Os3550#DNAnon        207 AGTAA--AATAATCGATATAAACACACGA--TGGCC-----T---AGGCT 170
+
+  NC_050098.1:8       4255 CGCGAGCC---------GGCTCGCGAGCTGGAACGAGCCAGCTCGGCTCG 4295
+                                   ---------            ----------         i 
+C Os3550#DNAnon        169 CGCGAGCCAAAACAAGCGGCTCGCGAGCT----------AGCTCGGCTTG 130
+
+  NC_050098.1:8       4296 GCTCGCTGCAAAAACGAGCTCGAAGAAG-AGGCTCGGCTCGGCTCGTTCG 4344
+                               ii v  iv        --  i   -     i  v i        i-
+C Os3550#DNAnon        129 GCTCATTTCAGCAACGAGCT--AAAAAGAAGGCTTGGGTTGGCTCGTTT- 83
+
+  NC_050098.1:8       4345 AGGCTCGCGAGCCGCTCCGAGCCGAGCCGAGC-CGCTCCGAGCTCGAGCC 4393
+                           -    ii       vv  i    - i  i   -  vv  i   i     i
+C Os3550#DNAnon         82 -GGCTTACGAGCCGAGCCAAGCC-AACCAAGCTCGAGCCAAGCCCGAGCT 35
+
+  NC_050098.1:8       4394 -GGCTCGCGAGCCTCGAGCTAATTTTCCAGCCCTA 4427
+                           -i    i      -      vv       v     
+C Os3550#DNAnon         34 AAGCTCACGAGCC-CGAGCTTTTTTTCCACCCCTA 1
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 24.96
+CpG sites = 60, Kimura (unadjusted) = 25.56
+Transitions / transversions = 1.46 (60/41)
+Gap_init rate = 0.15 (80 / 533), avg. gap size = 1.40 (112 / 80)
+

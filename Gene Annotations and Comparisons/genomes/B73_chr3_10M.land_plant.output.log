@@ -1,0 +1,52 @@
+[Dec 17 10:49 PM] Python v3.9.18; helixerlite v25.5.27, Helixer v0.3.2; HelixerPost v0.1.0, tensorflow v2.15.1, h5py v3.10.0, pyfastx v2.2.0, gfftk v25.6.10, numpy v1.26.4
+[Dec 17 10:49 PM] Helixer model already exists: /users/PAS3124/spoder123doge/.conda/envs/helixer/lib/python3.9/site-packages/helixerlite/model_files/land_plant_v0.3_a_0080.h5
+[Dec 17 10:49 PM] Converting genome assembly to HDF5 format. Using settings for land_plant: --subsequence-length 54152
+[Dec 17 10:49 PM] Running helixer HybridModel using model=land_plant_v0.3_a_0080.h5
+[Dec 17 10:49 PM] Using settings for land_plant: --overlap-offset 32076 --core-length 48114
+[Dec 17 10:51 PM] Converting predictions.h5 to GFF3 with helixerpost
+[Dec 17 10:52 PM] Cleaning GFF3 output with GFFtk
+[Dec 17 10:52 PM] Annotation stats:
+{
+  "genes": 379,
+  "common_name": 0,
+  "mRNA": 379,
+  "tRNA": 0,
+  "ncRNA": 0,
+  "rRNA": 0,
+  "repeat_region": 0,
+  "misc_feature": 0,
+  "avg_gene_length": 3846.5,
+  "transcript-level": {
+    "CDS_transcripts": 379,
+    "CDS_five_utr": 0,
+    "CDS_three_utr": 0,
+    "CDS_no_utr": 0,
+    "CDS_five_three_utr": 379,
+    "CDS_complete": 379,
+    "CDS_no-start": 0,
+    "CDS_no-stop": 0,
+    "CDS_no-start_no-stop": 0,
+    "total_exons": 3109,
+    "total_cds_exons": 1962,
+    "average_number_transcripts_per_gene": 1.0,
+    "multiple_exon_transcript": 322,
+    "single_exon_transcript": 57,
+    "average_number_cds_exons": 5.18,
+    "avg_exon_length": 296.56,
+    "median_number_exons": 4,
+    "max_number_exons": 31,
+    "avg_protein_length": 383.06,
+    "avg_transcript_length": 1689.4,
+    "functional": {
+      "go_terms": 0,
+      "interproscan": 0,
+      "eggnog": 0,
+      "pfam": 0,
+      "cazyme": 0,
+      "merops": 0,
+      "busco": 0,
+      "secretion": 0
+    }
+  }
+}
+[Dec 17 10:52 PM] helixerlite.__main__ module finished: peak memory usage=335.67 MiB

@@ -1,0 +1,112 @@
+NC_050098.1:5050071..5035663_LTR#LTR/unknown	Iter0	Discarded. Has only 8 bp after cleaning by NC_050098.1:2415926..2401858_LTR#LTR/unknown; identity: 80.59; merged 0
+NC_050098.1:5171310..5157747_LTR#LTR/unknown	Iter0	Cleaned. 1..1122,1258..1572, covering 0.959 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:8223992..8237959_LTR#LTR/Gypsy	Iter0	Cleaned. 1..314,448..1738, covering 1.071 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:7976054..7962461_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:5589416..5575298_LTR#LTR/unknown	Iter0	Cleaned. 1..1434,1566..1879, covering 1.167 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:8952688..8938564_LTR#LTR/unknown	Iter0	Cleaned. 1..1244,1400..1692, covering 1.026 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:8477580..8465243_LTR#LTR/unknown	Iter0	Cleaned. 1..1179,1314..1628, covering 0.997 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+NC_050098.1:5319191..5331087_LTR#LTR/Gypsy	Iter0	Cleaned. 1..314,490..1605, covering 0.955 of NC_050098.1:545694..559195_LTR#LTR/Gypsy; identity: 88.043; merged 4
+Os0144#LINE/unknown	Iter0	Discarded. Has only 3 bp after cleaning by Os0766#LINE/unknown; identity: 90.186; merged 0
+NC_050098.1:5638951..5627158_LTR#LTR/unknown	Iter0	Cleaned. 1..192,346..2619, covering 0.961 of NC_050098.1:2188140..2176409_LTR#LTR/unknown; identity: 89.737; merged 2
+NC_050098.1:9497939..9486246_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:2188140..2176409_LTR#LTR/unknown; identity: 89.737; merged 2
+NC_050098.1:5096677..5084782_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:2188140..2176409_LTR#LTR/unknown; identity: 89.737; merged 2
+NC_050098.1:5397853..5409020_LTR#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:2188140..2176409_LTR#LTR/unknown; identity: 89.737; merged 2
+NC_050098.1:223587..232658_INT#LTR/Copia	Iter0	Cleaned. 1..1203,1260..4651,4734..5536,5637..6020, covering 0.934 of NC_050098.1:9977542..9968272_INT#LTR/unknown; identity: 89.685; merged 0
+NC_050098.1:95408..104795_INT#LTR/Copia	Iter0	Cleaned. 1..1210,1264..4911,5078..5882,5891..6373, covering 0.992 of NC_050098.1:9977542..9968272_INT#LTR/unknown; identity: 89.685; merged 0
+NC_050098.1:1657362..1647309_INT#LTR/unknown	Iter0	Cleaned. 145..1440,1602..6493, covering 0.999 of NC_050098.1:9977542..9968272_INT#LTR/unknown; identity: 89.685; merged 0
+NC_050098.1:6813207..6803884_INT#LTR/unknown	Iter0	Cleaned. 39..1243,1405..4999,5057..6289, covering 0.974 of NC_050098.1:9977542..9968272_INT#LTR/unknown; identity: 89.685; merged 0
+NC_050098.1:1599122..1594023_LTR#LTR/unknown	Iter0	Discarded. Has only 11 bp after cleaning by NC_050098.1:1223908..1228684_LTR#LTR/Gypsy; identity: 83.912; merged 1
+NC_050098.1:4513155..4518340_LTR#LTR/Gypsy	Iter0	Discarded. Has only 11 bp after cleaning by NC_050098.1:1223908..1228684_LTR#LTR/Gypsy; identity: 83.912; merged 1
+NC_050098.1:6464055..6454670_LTR#LTR/unknown	Iter0	Discarded. Has only 16 bp after cleaning by NC_050098.1:1223908..1228684_LTR#LTR/Gypsy; identity: 83.912; merged 1
+NC_050098.1:4749102..4763052_INT#LTR/Gypsy	Iter0	Cleaned. 1..7927,8483..10601, covering 0.957 of NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:5319191..5331087_INT#LTR/Gypsy	Iter0	Cleaned. 1..4671,4683..5589,5637..6195,6508..8679, covering 0.792 of NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:1870173..1882565_INT#LTR/Gypsy	Iter0	Cleaned. 1..7060,7415..9459, covering 0.868 of NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:7976054..7962461_INT#LTR/unknown	Iter0	Cleaned. 1..2024,2378..2937,2977..10374, covering 0.951 of NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:8952688..8938564_INT#LTR/unknown	Iter0	Cleaned. 1..2001,2662..3342,3386..10757, covering 0.958 of NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:5171310..5157747_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:8477580..8465243_INT#LTR/unknown	Iter0	Discarded. Has only 11 bp after cleaning by NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:545694..559195_INT#LTR/Gypsy	Iter0	Discarded. Has only 37 bp after cleaning by NC_050098.1:8223992..8237959_INT#LTR/Gypsy; identity: 91.183; merged 1
+NC_050098.1:8430975..8417284_LTR#LTR/unknown	Iter0	Cleaned. 1..3024,3155..3555, covering 1.008 of NC_050098.1:7179237..7165822_LTR#LTR/unknown; identity: 87.213; merged 0
+NC_050098.1:9085359..9094326_LTR#LTR/Copia	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:5451900..5443900_LTR#LTR/unknown; identity: 84.491; merged 0
+NC_050098.1:3637408..3646350_LTR#LTR/Copia	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:5451900..5443900_LTR#LTR/unknown; identity: 84.491; merged 0
+NC_050098.1:1622152..1631180_LTR#LTR/Copia	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:5451900..5443900_LTR#LTR/unknown; identity: 84.491; merged 0
+NC_050098.1:2883694..2892701_LTR#LTR/Copia	Iter0	Discarded. Has only 13 bp after cleaning by NC_050098.1:5451900..5443900_LTR#LTR/unknown; identity: 84.491; merged 0
+NC_050098.1:3687804..3678988_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:5451900..5443900_LTR#LTR/unknown; identity: 84.491; merged 0
+NC_050098.1:2359434..2373709_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:8085540..8099646_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:4006240..4020794_INT#LTR/Gypsy	Iter0	Cleaned. 1..11557,11690..12977,13015..13215, covering 1.007 of NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:2062079..2076264_INT#LTR/Gypsy	Iter0	Cleaned. 1..10978,11108..12428,12465..12854, covering 0.979 of NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:7443757..7458067_INT#LTR/Gypsy	Iter0	Cleaned. 1..10910,11238..12547,12586..12961, covering 0.972 of NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:2153797..2139420_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:2415926..2401858_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:158940..145040_INT#LTR/unknown	Iter0	Cleaned. 141..1778,1959..12643, covering 0.951 of NC_050098.1:1933524..1947725_INT#LTR/Gypsy; identity: 90.816; merged 1
+NC_050098.1:3054992..3073217_INT#LTR/Copia	Iter0	Cleaned. 110..470,644..5531, covering 0.952 of NC_050098.1:2220978..2230133_INT#LTR/unknown; identity: 87.662; merged 0
+NC_050098.1:5742946..5751709_INT#LTR/unknown	Iter0	Cleaned. 1..4838,4962..5352, covering 0.949 of NC_050098.1:2220978..2230133_INT#LTR/unknown; identity: 87.662; merged 0
+NC_050098.1:2159067..2168804_INT#LTR/Gypsy	Iter0	Cleaned. 7926..8225, covering 1.003 of NC_050098.1:6931555..6941270_INT#LTR/Gypsy; identity: 85.153; merged 0
+NC_050098.1:1933524..1947725_INT#LTR/Gypsy	Iter0	Cleaned. 1..10873,11184..12500,12509..12885, covering 0.963 of NC_050098.1:7443757..7458067_INT#LTR/Gypsy; identity: 88.005; merged 0
+NC_050098.1:5133739..5124267_LTR#LTR/unknown	Iter0	Discarded. Has only 15 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:6813207..6803884_LTR#LTR/unknown	Iter0	Discarded. Has only 15 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:1657362..1647309_LTR#LTR/unknown	Iter0	Discarded. Has only 15 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:5308511..5299037_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:5997705..5987852_LTR#LTR/unknown	Iter0	Cleaned. 16..1053,1261..1499, covering 0.970 of NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:95408..104795_LTR#LTR/Copia	Iter0	Discarded. Has only 15 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:3538004..3547581_LTR#LTR/Copia	Iter0	Discarded. Has only 15 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:6220315..6229772_LTR#LTR/Copia	Iter0	Discarded. Has only 13 bp after cleaning by NC_050098.1:223587..232658_LTR#LTR/Copia; identity: 85.828; merged 0
+NC_050098.1:6188672..6175936_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:9813477..9826095_LTR#LTR/Gypsy; identity: 91.906; merged 0
+Os2281#LINE/unknown	Iter0	Discarded. Has only 2 bp after cleaning by Os2000#LINE/unknown; identity: 89.426; merged 0
+NC_050098.1:9154730..9163912_INT#LTR/unknown	Iter0	Cleaned. 1..1991,2408..5797, covering 0.977 of NC_050098.1:6509053..6518002_INT#LTR/unknown; identity: 89.716; merged 1
+NC_050098.1:8719192..8728125_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:6509053..6518002_INT#LTR/unknown; identity: 89.716; merged 1
+NC_050098.1:4513155..4518340_INT#LTR/Gypsy	Iter0	Discarded. Has only 35 bp after cleaning by NC_050098.1:1599122..1594023_INT#LTR/unknown; identity: 91.399; merged 1
+NC_050098.1:6509053..6518002_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:2220978..2230133_LTR#LTR/unknown; identity: 88.149; merged 0
+NC_050098.1:9154730..9163912_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:2220978..2230133_LTR#LTR/unknown; identity: 88.149; merged 0
+NC_050098.1:8719192..8728125_LTR#LTR/unknown	Iter0	Discarded. Has only 24 bp after cleaning by NC_050098.1:2220978..2230133_LTR#LTR/unknown; identity: 88.149; merged 0
+NC_050098.1:5397853..5409020_INT#LTR/Gypsy	Iter0	Cleaned. 1..3506,3911..5531, covering 0.994 of NC_050098.1:2033725..2045304_INT#LTR/Gypsy; identity: 90.14; merged 0
+Os1216#LINE/unknown	Iter0	Discarded. Has only 3 bp after cleaning by Os0402#LINE/unknown; identity: 94.058; merged 0
+NC_050098.1:1004743..1012239_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:8522593..8530017_INT#LTR/Gypsy; identity: 84.592; merged 0
+NC_050098.1:7284297..7276866_INT#LTR/unknown	Iter0	Cleaned. 1..203,341..1976,1985..4893, covering 0.789 of NC_050098.1:8522593..8530017_INT#LTR/Gypsy; identity: 84.592; merged 0
+NC_050098.1:3359112..3350006_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:6622393..6631481_LTR#LTR/Copia; identity: 83.148; merged 0
+NC_050098.1:5199990..5211627_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:3015532..3027319_INT#LTR/Gypsy; identity: 89.773; merged 5
+NC_050098.1:4671655..4683114_INT#LTR/Gypsy	Iter0	Discarded. Has only 65 bp after cleaning by NC_050098.1:3015532..3027319_INT#LTR/Gypsy; identity: 89.773; merged 5
+NC_050098.1:3030421..3041765_INT#LTR/Gypsy	Iter0	Cleaned. 1..7989,8044..8256,8306..10405, covering 0.962 of NC_050098.1:3015532..3027319_INT#LTR/Gypsy; identity: 89.773; merged 5
+NC_050098.1:9531211..9541883_INT#LTR/Gypsy	Iter0	Discarded. Has only 38 bp after cleaning by NC_050098.1:3634896..3623288_INT#LTR/unknown; identity: 86.844; merged 2
+NC_050098.1:7371692..7361774_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:3634896..3623288_INT#LTR/unknown; identity: 86.844; merged 2
+NC_050098.1:4157848..4148550_LTR#LTR/unknown	Iter0	Discarded. Has only 3 bp after cleaning by NC_050098.1:4243751..4252980_LTR#LTR/Copia; identity: 89.726; merged 0
+NC_050098.1:1999467..1990121_LTR#LTR/unknown	Iter0	Discarded. Has only 3 bp after cleaning by NC_050098.1:4243751..4252980_LTR#LTR/Copia; identity: 89.726; merged 0
+NC_050098.1:4812760..4824667_INT#LTR/unknown	Iter0	Cleaned. 1..3720,3994..7043, covering 0.939 of NC_050098.1:3705836..3717116_INT#LTR/unknown; identity: 94.567; merged 1
+NC_050098.1:5918346..5906614_INT#LTR/unknown	Iter0	Discarded. Has only 53 bp after cleaning by NC_050098.1:5608836..5596465_INT#LTR/unknown; identity: 89.35; merged 0
+NC_050098.1:6015470..6022845_INT#LTR/Gypsy	Iter0	Discarded. Has only 44 bp after cleaning by NC_050098.1:5194608..5187094_INT#LTR/unknown; identity: 85.282; merged 1
+NC_050098.1:574635..567311_INT#LTR/unknown	Iter0	Discarded. Has only 29 bp after cleaning by NC_050098.1:5194608..5187094_INT#LTR/unknown; identity: 85.282; merged 1
+NC_050098.1:1949389..1956894_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:5194608..5187094_INT#LTR/unknown; identity: 85.282; merged 1
+NC_050098.1:7801656..7813235_LTR#LTR/Gypsy	Iter0	Cleaned. 1..608,777..1224,1336..2532, covering 0.961 of NC_050098.1:8316085..8327595_LTR#LTR/Gypsy; identity: 91.41; merged 0
+NC_050098.1:9949025..9939357_INT#LTR/unknown	Iter0	Cleaned. 57..3316,3565..3845,3853..8156, covering 0.997 of NC_050098.1:196452..205848_INT#LTR/Gypsy; identity: 87.512; merged 0
+NC_050098.1:443798..451832_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:196452..205848_INT#LTR/Gypsy; identity: 87.512; merged 0
+NC_050098.1:8316085..8327595_LTR#LTR/Gypsy	Iter0	Cleaned. 1..621,717..2344, covering 0.888 of NC_050098.1:7801656..7813235_LTR#LTR/Gypsy; identity: 87.877; merged 0
+NC_050098.1:122130..135269_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:8381557..8395213_INT#LTR/Gypsy; identity: 90.141; merged 1
+NC_050098.1:1223908..1228684_LTR#LTR/Gypsy	Iter0	Cleaned. 61..589,649..739, covering 1.006 of NC_050098.1:3751733..3747506_LTR#LTR/unknown; identity: 91.403; merged 1
+NC_050098.1:7858619..7854341_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:3751733..3747506_LTR#LTR/unknown; identity: 91.403; merged 1
+NC_050098.1:9564592..9574134_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:4178182..4168597_INT#LTR/unknown; identity: 89.579; merged 1
+NC_050098.1:42960..52395_INT#LTR/Gypsy	Iter0	Discarded. Has only 4 bp after cleaning by NC_050098.1:270325..279691_INT#LTR/Gypsy; identity: 91.432; merged 0
+NC_050098.1:3687804..3678988_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1622152..1631180_INT#LTR/Copia; identity: 90.398; merged 2
+NC_050098.1:5451900..5443900_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:1622152..1631180_INT#LTR/Copia; identity: 90.398; merged 2
+NC_050098.1:4178182..4168597_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:9564592..9574134_INT#LTR/Gypsy; identity: 89.889; merged 0
+NC_050098.1:8627836..8612824_INT#LTR/unknown	Iter0	Discarded. Has only 76 bp after cleaning by NC_050098.1:6973035..6988012_INT#LTR/Gypsy; identity: 90.624; merged 0
+NC_050098.1:7508742..7495987_LTR#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:6743835..6731096_LTR#LTR/unknown; identity: 92.061; merged 0
+NC_050098.1:545694..559195_LTR#LTR/Gypsy	Iter0	Discarded. Has only 30 bp after cleaning by NC_050098.1:5918346..5906614_LTR#LTR/unknown; identity: 86.867; merged 0
+NC_050098.1:4434006..4443861_LTR#LTR/unknown	Iter0	Discarded. Has only 20 bp after cleaning by NC_050098.1:9407209..9417304_LTR#LTR/unknown; identity: 90.921; merged 0
+NC_050098.1:3015532..3027319_INT#LTR/Gypsy	Iter0	Cleaned. 1..2349,3582..8308,8410..10708, covering 0.951 of NC_050098.1:8177308..8166505_INT#LTR/unknown; identity: 88.014; merged 4
+NC_050098.1:8648137..8661022_INT#LTR/Gypsy	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:7179237..7165822_INT#LTR/unknown; identity: 93; merged 0
+NC_050098.1:7105826..7116971_INT#LTR/unknown	Iter0	Cleaned. 1..1131,1928..2928, covering 1.031 of NC_050098.1:210441..220318_INT#LTR/unknown; identity: 83.16; merged 0
+NC_050098.1:210441..220318_INT#LTR/unknown	Iter0	Discarded. Has only 0 bp after cleaning by NC_050098.1:7105826..7116971_INT#LTR/unknown; identity: 83.125; merged 1
+NC_050098.1:4471374..4485841_INT#LTR/unknown	Iter0	Cleaned. 1..334,567..688,801..1371,1525..1755,1887..4641,4874..4995,5108..5678,5832..6062,6194..8614, covering 1.657 of NC_050098.1:9296873..9305115_INT#LTR/unknown; identity: 84.872; merged 0
+NC_050098.1:5171310..5157747_LTR#LTR/unknown	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:8503263..8517001_LTR#LTR/Gypsy; identity: 85.562; merged 0
+NC_050098.1:8223992..8237959_LTR#LTR/Gypsy	Iter1	Discarded. Has only 2 bp after cleaning by NC_050098.1:8503263..8517001_LTR#LTR/Gypsy; identity: 85.562; merged 0
+NC_050098.1:5589416..5575298_LTR#LTR/unknown	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:8503263..8517001_LTR#LTR/Gypsy; identity: 85.562; merged 0
+NC_050098.1:8952688..8938564_LTR#LTR/unknown	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:8503263..8517001_LTR#LTR/Gypsy; identity: 85.562; merged 0
+NC_050098.1:8477580..8465243_LTR#LTR/unknown	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:8503263..8517001_LTR#LTR/Gypsy; identity: 85.562; merged 0
+NC_050098.1:5742946..5751709_INT#LTR/unknown	Iter1	Discarded. Has only 6 bp after cleaning by NC_050098.1:6509053..6518002_INT#LTR/unknown; identity: 86.796; merged 1
+NC_050098.1:4812760..4824667_INT#LTR/unknown	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:1562983..1575237_INT#LTR/unknown; identity: 95.074; merged 0
+NC_050098.1:196452..205848_INT#LTR/Gypsy	Iter1	Cleaned. 1..7564, covering 0.954 of NC_050098.1:2159067..2168804_INT#LTR/Gypsy; identity: 88.499; merged 1
+NC_050098.1:2188140..2176409_LTR#LTR/unknown	Iter1	Cleaned. 1704..1869, covering 1.747 of NC_050098.1:8316085..8327595_LTR#LTR/Gypsy; identity: 82.081; merged 1
+NC_050098.1:1870173..1882565_INT#LTR/Gypsy	Iter1	Discarded. Has only 0 bp after cleaning by NC_050098.1:7976054..7962461_INT#LTR/unknown; identity: 88.623; merged 0
+NC_050098.1:4006240..4020794_INT#LTR/Gypsy	Iter1	Discarded. Has only 11 bp after cleaning by NC_050098.1:2062079..2076264_INT#LTR/Gypsy; identity: 86.756; merged 0
+NC_050098.1:7179237..7165822_INT#LTR/unknown	Iter1	Cleaned. 2383..2783, covering 0.993 of NC_050098.1:5397853..5409020_INT#LTR/Gypsy; identity: 85.037; merged 0

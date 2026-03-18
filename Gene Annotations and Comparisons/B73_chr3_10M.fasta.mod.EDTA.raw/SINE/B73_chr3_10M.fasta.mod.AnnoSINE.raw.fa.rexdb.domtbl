@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.1.fasta.aa
+# Target file:     /users/PAS3124/spoder123doge/.conda/envs/EDTA/lib/python3.12/site-packages/TEsorter/database/REXdb_protein_database_viridiplantae_v4.0_plus_metazoa_v3.1.hmm
+# Option settings: hmmscan --domtblout ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.1.fasta.aa.domtbl --noali --notextw --nobias /users/PAS3124/spoder123doge/.conda/envs/EDTA/lib/python3.12/site-packages/TEsorter/database/REXdb_protein_database_viridiplantae_v4.0_plus_metazoa_v3.1.hmm ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.1.fasta.aa 
+# Current dir:     /fs/ess/PAS3124/noel.225/MG5795-2025/Final5795Project/Gene Annotations and Comparisons/B73_chr3_10M.fasta.mod.EDTA.raw/SINE
+# Date:            Thu Dec 18 00:23:52 2025
+# [ok]
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.2.fasta.aa
+# Target file:     /users/PAS3124/spoder123doge/.conda/envs/EDTA/lib/python3.12/site-packages/TEsorter/database/REXdb_protein_database_viridiplantae_v4.0_plus_metazoa_v3.1.hmm
+# Option settings: hmmscan --domtblout ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.2.fasta.aa.domtbl --noali --notextw --nobias /users/PAS3124/spoder123doge/.conda/envs/EDTA/lib/python3.12/site-packages/TEsorter/database/REXdb_protein_database_viridiplantae_v4.0_plus_metazoa_v3.1.hmm ./tmp-bd1dcb00-dbd1-11f0-b4c6-84160c74f960/chunk.2.fasta.aa 
+# Current dir:     /fs/ess/PAS3124/noel.225/MG5795-2025/Final5795Project/Gene Annotations and Comparisons/B73_chr3_10M.fasta.mod.EDTA.raw/SINE
+# Date:            Thu Dec 18 00:23:52 2025
+# [ok]

@@ -1,0 +1,4 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+NC_050098.1:42960..52395#LTR/Gypsy	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand INT|Retand
+NC_050098.1:72346..65546#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand
+NC_050098.1:83459..89279#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale

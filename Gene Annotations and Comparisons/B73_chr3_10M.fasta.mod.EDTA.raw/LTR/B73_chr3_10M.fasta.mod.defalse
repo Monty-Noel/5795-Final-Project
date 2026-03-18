@@ -1,0 +1,2359 @@
+NC_050098.1:42960..52395	pass	motif:TGCA	TSD:GTTCT	42955..42959	52396..52400	IN:43544..51811	1.0000	+	Gypsy	LTR	0
+	Adjust: NO	lLTR: 584	rLTR: 584
+	Alignment regions: 1, 584, 8853, 9436
+	LTR coordinates: 42960, 43543, 51812, 52395
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:72346..65546	pass	motif:TGCA	TSD:ATGTT	65541..65545	72347..72351	IN:66639..71232	0.9484	-	Gypsy	LTR	1982710
+	Adjust: NO	lLTR: 1093	rLTR: 1114
+	Alignment regions: 1, 1093, 5688, 6801
+	LTR coordinates: 65546, 66638, 71233, 72346
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:83459..89279	pass	motif:TGAC	TSD:CACAC	83454..83458	89281..89285	IN:83607..89131	0.9933	+	Copia	LTR	258135
+	Adjust: NO	lLTR: 150	rLTR: 150
+	Alignment regions: 1, 150, 5674, 5823
+	LTR coordinates: 83459, 83606, 89132, 89279
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:122130..135269	pass	motif:TGCA	TSD:ATAAC	122125..122129	135270..135274	IN:126150..131250	0.996	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 122130, 126149, 131251, 135269
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:137846..143732	truncated	motif:GGAA	TSD:GAAAG	137841..137845	143733..143737	IN:137983..143589	0.9444	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 137846, 137982, 143590, 143732
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:170232..160624	truncated	motif:TAAA	TSD:GCAC	160620..160623	170233..170236	IN:161227..169630	0.9735	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 160624, 161226, 169631, 170232
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:158940..145040	pass	motif:TGTA	TSD:GAAGC	145035..145039	158941..158945	IN:145669..158311	0.9905	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 145040, 145668, 158312, 158940
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:110366..116052	pass	motif:TACA	TSD:CTATT	110361..110365	116053..116057	IN:110609..115810	0.9794	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 110366, 110608, 115811, 116052
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:95408..104795	pass	motif:TGCA	TSD:GACGG	95403..95407	104796..104800	IN:96695..103491	0.971	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 95408, 96694, 103492, 104795
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:349624..338748	pass	motif:TGCA	TSD:CATAA	338743..338747	349625..349629	IN:342360..346004	0.998	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 338748, 342359, 346005, 349624
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:196452..205848	pass	motif:TGCA	TSD:TGATC	196447..196451	205849..205853	IN:197045..205255	0.998	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 196452, 197044, 205256, 205848
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:353376..346790	false	motif:TGCA	TSD:GGAA	346786..346789	353377..353380	IN:346923..353248	0.8647	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 346790, 346922, 353249, 353376
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:443798..451832	pass	motif:TGCA	TSD:CTATG	443793..443797	451833..451837	IN:444392..451238	0.993	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 443798, 444391, 451239, 451832
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:270325..279691	pass	motif:TGCA	TSD:AGTGT	270320..270324	279692..279696	IN:270909..279107	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 270325, 270908, 279108, 279691
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:170232..160624	truncated	motif:TAAA	TSD:GCAC	160620..160623	170233..170236	IN:161227..169629	0.977	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 160624, 161226, 169630, 170232
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:247565..262972	false	motif:TGCA	TSD:CACTG	247560..247564	262973..262977	IN:248040..262497	1	+	Gypsy	notLTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 247565, 248039, 262498, 262972
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:223587..232658	pass	motif:TGCA	TSD:GGTAC	223582..223586	232659..232663	IN:224903..231347	0.985	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 223587, 224902, 231348, 232658
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:301027..291633	truncated	motif:TGCA	TSD:GCAAT	291628..291632	301028..301032	IN:292232..300433	0.9867	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 291633, 292231, 300434, 301027
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:328791..331458	pass	motif:TGCA	TSD:ACCCT	328786..328790	331459..331463	IN:329511..330738	0.996	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 328791, 329510, 330739, 331458
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:210441..220318	pass	motif:TGCA	TSD:TTTGT	210436..210440	220319..220323	IN:214346..216412	0.984	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 210441, 214345, 216413, 220318
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:301027..291633	pass	motif:TGCA	TSD:GCAAT	291628..291632	301028..301032	IN:292227..300433	0.995	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 291633, 292226, 300434, 301027
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:574635..567311	pass	motif:TGCA	TSD:CCTGC	567306..567310	574636..574640	IN:567951..573995	0.997	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 567311, 567950, 573996, 574635
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:545694..559195	truncated	motif:TGCA	TSD:CCACT	545689..545693	559196..559200	IN:547190..557697	0.992	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 545694, 547189, 557698, 559195
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:582237..589006	truncated	motif:TGCA	TSD:GAGG	582233..582236	589007..589010	IN:583203..588043	0.987	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 582237, 583202, 588044, 589006
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:545694..559195	pass	motif:TGCA	TSD:CCACT	545689..545693	559196..559200	IN:547190..557699	0.994	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 545694, 547189, 557700, 559195
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:461808..474716	false	motif:GACC	TSD:CTGGT	461803..461807	474716..474720	IN:462210..474319	0.9429	+	Gypsy	notLTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 461808, 462209, 474320, 474716
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:491356..500998	false	motif:GAAG	TSD:CTGAA	491351..491355	500999..501003	IN:491473..500876	0.8689	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 491356, 491472, 500877, 500998
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:642842..653284	false	motif:CGCC	TSD:TATG	642838..642841	653285..653288	IN:644345..651781	0.9907	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 642842, 644344, 651782, 653284
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1177023..1185979	pass	motif:TGCA	TSD:GTTTC	1177018..1177022	1185980..1185984	IN:1181001..1182001	0.999	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1177023, 1181000, 1182002, 1185979
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:747477..738464	truncated	motif:GAAG	TSD:NA	..	..	IN:739078..746864	0.989	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 738464, 739077, 746865, 747477
+	TSD-LTR overlap: 1485941
+	Boundary missing: 0
+
+NC_050098.1:707004..714380	pass	motif:TGCA	TSD:CCTCC	706999..707003	714381..714385	IN:707672..713712	0.979	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 707004, 707671, 713713, 714380
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1562983..1575237	truncated	motif:TGCA	TSD:AGTCT	1562978..1562982	1575238..1575242	IN:1565294..1572931	0.9931	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1562983, 1565293, 1572932, 1575237
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:736548..740008	false	motif:TCCG	TSD:TGGC	736544..736547	740009..740012	IN:738116..738452	0.9751	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 736548, 738115, 738453, 740008
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1420061..1410592	pass	motif:TGCA	TSD:GCTAG	1410587..1410591	1420062..1420066	IN:1411925..1418731	0.992	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1410592, 1411924, 1418732, 1420061
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:886251..876733	false	motif:ATAG	TSD:NNNNN	876727..876731	886252..886256	IN:877346..885638	0.969	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 876733, 877345, 885639, 886251
+	TSD-LTR overlap: 1
+	Boundary missing: 48
+
+NC_050098.1:1223908..1228684	pass	motif:TGCA	TSD:GTACC	1223903..1223907	1228685..1228689	IN:1224625..1227945	0.953	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1223908, 1224624, 1227946, 1228684
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1522121..1531036	pass	motif:TGCA	TSD:ACTAG	1522116..1522120	1531037..1531041	IN:1523372..1529806	0.979	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1522121, 1523371, 1529807, 1531036
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:989772..983453	pass	motif:TGCA	TSD:GTCTC	983448..983452	989773..989777	IN:984827..988418	0.955	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 983453, 984826, 988419, 989772
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1355554..1363778	pass	motif:TGCA	TSD:GGCCG	1355549..1355553	1363779..1363783	IN:1358808..1360523	0.999	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1355554, 1358807, 1360524, 1363778
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1562983..1575237	pass	motif:TGCA	TSD:AGTCT	1562978..1562982	1575238..1575242	IN:1565291..1572931	0.994	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1562983, 1565290, 1572932, 1575237
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1004743..1012239	pass	motif:TGCA	TSD:ATATG	1004738..1004742	1012240..1012244	IN:1005423..1011555	0.98	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1004743, 1005422, 1011556, 1012239
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1269607..1278996	pass	motif:TGCA	TSD:CTAAT	1269602..1269606	1278997..1279001	IN:1270910..1277718	0.959	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1269607, 1270909, 1277719, 1278996
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1522403..1531026	false	motif:GCTA	TSD:GGTGC	1522398..1522402	1531027..1531031	IN:1523372..1530057	0.9784	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1522403, 1523371, 1530058, 1531026
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1140150..1150668	false	motif:TGCT	TSD:GCCC	1140146..1140149	1150669..1150672	IN:1140640..1150174	0.9494	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1140150, 1140639, 1150175, 1150668
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:997070..1015743	pass	motif:TGCA	TSD:TGATA	997065..997069	1015744..1015748	IN:1000586..1012242	0.964	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 997070, 1000585, 1012243, 1015743
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1502162..1510930	pass	motif:TGCA	TSD:GTTAT	1502157..1502161	1510931..1510935	IN:1503768..1509324	0.996	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1502162, 1503767, 1509325, 1510930
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1599122..1594023	pass	motif:TGCA	TSD:CACGG	1594018..1594022	1599123..1599127	IN:1594669..1598498	0.963	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1594023, 1594668, 1598499, 1599122
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1502169..1510940	truncated	motif:TGCA	TSD:AGT	1502166..1502168	1510941..1510943	IN:1503777..1509324	0.9895	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1502169, 1503776, 1509325, 1510940
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1622152..1631180	pass	motif:TGCA	TSD:AGCCC	1622147..1622151	1631181..1631185	IN:1623425..1629907	0.998	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1622152, 1623424, 1629908, 1631180
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1622152..1631180	pass	motif:TGCA	TSD:AGCCC	1622147..1622151	1631181..1631185	IN:1623425..1629907	0.9984	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1622152, 1623424, 1629908, 1631180
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1657362..1647309	pass	motif:TGCA	TSD:CATCC	1647304..1647308	1657363..1657367	IN:1648621..1656032	0.983	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1647309, 1648620, 1656033, 1657362
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1870173..1882565	pass	motif:TGCA	TSD:AAAGG	1870168..1870172	1882566..1882570	IN:1871640..1881098	0.982	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1870173, 1871639, 1881099, 1882565
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1750543..1742331	truncated	motif:TACT	TSD:CAGGT	1742326..1742330	1750544..1750548	IN:1742516..1750376	0.8978	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1742331, 1742515, 1750377, 1750543
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1681220..1682721	false	motif:GTAT	TSD:TACT	1681216..1681219	1682723..1682726	IN:1681462..1682482	0.9673	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1681220, 1681461, 1682483, 1682721
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:1786655..1794977	false	motif:GGCC	TSD:GGTG	1786651..1786654	1794978..1794981	IN:1787842..1793803	0.984	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1786655, 1787841, 1793804, 1794977
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1657365..1647916	truncated	motif:TCCA	TSD:ACCCA	1647911..1647915	1657366..1657370	IN:1648621..1656669	0.973	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1647916, 1648620, 1656670, 1657365
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1786660..1795387	pass	motif:TGCA	TSD:GGCGA	1786655..1786659	1795388..1795392	IN:1788285..1793803	0.97	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1786660, 1788284, 1793804, 1795387
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2062079..2076264	pass	motif:TGCA	TSD:GCCTT	2062074..2062078	2076265..2076269	IN:2062708..2075635	0.9794	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2062079, 2062707, 2075636, 2076264
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1933524..1947725	pass	motif:TGCA	TSD:GCTCC	1933519..1933523	1947726..1947730	IN:1934147..1947103	0.997	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1933524, 1934146, 1947104, 1947725
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1949389..1956894	pass	motif:TGCA	TSD:CCTAG	1949384..1949388	1956895..1956899	IN:1950030..1956253	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1949389, 1950029, 1956254, 1956894
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1999467..1990133	truncated	motif:TGCT	TSD:AGGC	1990129..1990132	1999468..1999471	IN:1991362..1998244	0.9919	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1990133, 1991361, 1998245, 1999467
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2033725..2045304	pass	motif:TGCA	TSD:GTAAG	2033720..2033724	2045305..2045309	IN:2036936..2042093	0.994	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2033725, 2036935, 2042094, 2045304
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2062079..2076264	pass	motif:TGCA	TSD:GCCTT	2062074..2062078	2076265..2076269	IN:2062708..2075635	0.979	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2062079, 2062707, 2075636, 2076264
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2215850..2220454	pass	motif:TACA	TSD:TGCAC	2215845..2215849	2220455..2220459	IN:2216015..2220289	1	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2215850, 2216014, 2220290, 2220454
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2159067..2168804	pass	motif:TGCA	TSD:CGGCC	2159062..2159066	2168805..2168809	IN:2159654..2168217	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2159067, 2159653, 2168218, 2168804
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2301000..2292076	pass	motif:TGCA	TSD:CCTTG	2292071..2292075	2301001..2301005	IN:2293327..2299768	0.978	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2292076, 2293326, 2299769, 2301000
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:1999467..1990121	pass	motif:TGCA	TSD:AAGGC	1990116..1990120	1999468..1999472	IN:1991362..1998229	0.994	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 1990121, 1991361, 1998230, 1999467
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2188140..2176409	pass	motif:TGCA	TSD:CCCTC	2176404..2176408	2188141..2188145	IN:2179127..2185427	0.998	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2176409, 2179126, 2185428, 2188140
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2240552..2245887	pass	motif:TGCA	TSD:GGGTG	2240547..2240551	2245888..2245892	IN:2241037..2245402	0.996	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2240552, 2241036, 2245403, 2245887
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2325773..2333838	false	motif:GTCC	TSD:GGACT	2325768..2325772	2333839..2333843	IN:2326122..2333490	0.98	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2325773, 2326121, 2333491, 2333838
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2450349..2440897	false	motif:TGCA	TSD:CAGCC	2440892..2440896	2450350..2450354	IN:2442208..2449038	0.998	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2440897, 2442207, 2449039, 2450349
+	TSD-LTR overlap: 0
+	Boundary missing: 28
+
+NC_050098.1:2153797..2139420	pass	motif:TGCA	TSD:CGTCC	2139415..2139419	2153798..2153802	IN:2140043..2153174	1	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2139420, 2140042, 2153175, 2153797
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2415926..2401858	pass	motif:TGCA	TSD:GCCAC	2401853..2401857	2415927..2415931	IN:2402482..2415302	0.998	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2401858, 2402481, 2415303, 2415926
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2300535..2292078	false	motif:GGCT	TSD:CACC	2292074..2292077	2300536..2300539	IN:2292851..2299768	0.9793	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2292078, 2292850, 2299769, 2300535
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2220971..2230139	false	motif:CGCC	TSD:GATG	2220967..2220970	2230140..2230143	IN:2222727..2228376	0.9898	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2220971, 2222726, 2228377, 2230139
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2220978..2230133	pass	motif:TGCA	TSD:CAATC	2220973..2220977	2230134..2230138	IN:2222727..2228386	0.997	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2220978, 2222726, 2228387, 2230133
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2386045..2396615	truncated	motif:CGCA	TSD:GGCG	2386041..2386044	2396616..2396619	IN:2387319..2395353	0.9867	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2386045, 2387318, 2395354, 2396615
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2359434..2373709	pass	motif:TGCA	TSD:CAATC	2359429..2359433	2373710..2373714	IN:2360056..2373087	0.997	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2359434, 2360055, 2373088, 2373709
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2386053..2396625	truncated	motif:NA	TSD:NA	..	..	IN:2387319..2395357	0.998	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2386053, 2387318, 2395358, 2396625
+	TSD-LTR overlap: 4782678
+	Boundary missing: 0
+
+NC_050098.1:2656548..2659200	false	motif:AAGA	TSD:AATTT	2656543..2656547	2659201..2659205	IN:2656706..2659043	0.8553	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2656548, 2656705, 2659044, 2659200
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2675565..2666106	pass	motif:TGCA	TSD:TCCAG	2666101..2666105	2675566..2675570	IN:2667416..2674256	0.996	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2666106, 2667415, 2674257, 2675565
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2469992..2482837	truncated	motif:TGCA	TSD:GGTAG	2469987..2469991	2482838..2482842	IN:2470622..2482214	0.9873	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2469992, 2470621, 2482215, 2482837
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2743242..2750476	pass	motif:TGCA	TSD:ATTTT	2743237..2743241	2750477..2750481	IN:2744645..2749073	0.999	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2743242, 2744644, 2749074, 2750476
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2533978..2522105	truncated	motif:TGCA	TSD:ATTAT	2522100..2522104	2533979..2533983	IN:2523750..2532341	0.9915	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2522105, 2523749, 2532342, 2533978
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2743242..2750476	pass	motif:TGCA	TSD:ATTTT	2743237..2743241	2750477..2750481	IN:2744645..2749073	0.9986	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2743242, 2744644, 2749074, 2750476
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2689565..2692789	false	motif:GCAA	TSD:CCCTT	2689560..2689564	2692789..2692793	IN:2689694..2692654	0.8824	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2689565, 2689693, 2692655, 2692789
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:2727334..2731572	pass	motif:TGCA	TSD:GTAAT	2727329..2727333	2731573..2731577	IN:2728538..2730368	0.943	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2727334, 2728537, 2730369, 2731572
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2533978..2522123	pass	motif:TGCA	TSD:ATTAT	2522118..2522122	2533979..2533983	IN:2523748..2532353	0.999	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2522123, 2523747, 2532354, 2533978
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2513366..2518612	pass	motif:TGCA	TSD:GTTAC	2513361..2513365	2518613..2518617	IN:2513635..2518343	0.978	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2513366, 2513634, 2518344, 2518612
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2806610..2800893	pass	motif:TGCA	TSD:ATACC	2800888..2800892	2806611..2806615	IN:2801290..2806213	0.995	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2800893, 2801289, 2806214, 2806610
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2795942..2777411	pass	motif:TGCA	TSD:ACATT	2777406..2777410	2795943..2795947	IN:2779715..2793641	0.996	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2777411, 2779714, 2793642, 2795942
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2874097..2880284	false	motif:TTCC	TSD:TCAC	2874093..2874096	2880285..2880288	IN:2875311..2879057	0.9552	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2874097, 2875310, 2879058, 2880284
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2884098..2892691	false	motif:AGTA	TSD:GGTG	2884094..2884097	2892692..2892695	IN:2884958..2891829	0.9722	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2884098, 2884957, 2891830, 2892691
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2883694..2892701	pass	motif:TGCA	TSD:AAAGG	2883689..2883693	2892702..2892706	IN:2884958..2891397	0.965	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2883694, 2884957, 2891398, 2892701
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2937703..2928426	pass	motif:TGCA	TSD:CATGG	2928421..2928425	2937704..2937708	IN:2929659..2936468	0.981	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2928426, 2929658, 2936469, 2937703
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2806610..2800893	pass	motif:TGCA	TSD:ATACC	2800888..2800892	2806611..2806615	IN:2801290..2806213	0.995	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2800893, 2801289, 2806214, 2806610
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:2980302..2970744	pass	motif:TGCA	TSD:TTAGG	2970739..2970743	2980303..2980307	IN:2972083..2978961	0.999	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 2970744, 2972082, 2978962, 2980302
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3030421..3041765	pass	motif:TGCA	TSD:ACAGG	3030416..3030420	3041766..3041770	IN:3030891..3041295	0.989	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3030421, 3030890, 3041296, 3041765
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3015532..3027319	pass	motif:TGCA	TSD:CCGCT	3015527..3015531	3027320..3027324	IN:3016007..3026844	0.996	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3015532, 3016006, 3026845, 3027319
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3054992..3073217	pass	motif:TGCA	TSD:GCGTC	3054987..3054991	3073218..3073222	IN:3056620..3071589	0.992	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3054992, 3056619, 3071590, 3073217
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3145702..3150935	pass	motif:TGCA	TSD:TCTAG	3145697..3145701	3150936..3150940	IN:3146154..3150483	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3145702, 3146153, 3150484, 3150935
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3061511..3070950	pass	motif:TGCA	TSD:GCGAG	3061506..3061510	3070951..3070955	IN:3062826..3069637	0.985	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3061511, 3062825, 3069638, 3070950
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3219685..3227316	pass	motif:TGCA	TSD:CGTGC	3219680..3219684	3227317..3227321	IN:3222834..3224167	1	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3219685, 3222833, 3224168, 3227316
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3288337..3291162	false	motif:GGAA	TSD:TGCA	3288333..3288336	3291162..3291165	IN:3288518..3290978	0.9022	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3288337, 3288517, 3290979, 3291162
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:3145701..3150942	truncated	motif:GTCC	TSD:GTCTA	3145696..3145700	3150943..3150947	IN:3146154..3150484	0.9804	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3145701, 3146153, 3150485, 3150942
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3212977..3201352	pass	motif:TGCA	TSD:ACGGC	3201347..3201351	3212978..3212982	IN:3204038..3210322	0.981	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3201352, 3204037, 3210323, 3212977
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3243512..3234038	false	motif:TGCA	TSD:GGT	3234035..3234037	3243513..3243515	IN:3234886..3242666	0.9386	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3234038, 3234885, 3242667, 3243512
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3359112..3350006	pass	motif:TGCA	TSD:ATAAG	3350001..3350005	3359113..3359117	IN:3351190..3357919	0.94	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3350006, 3351189, 3357920, 3359112
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3212490..3201706	false	motif:TAAA	TSD:ACCC	3201702..3201705	3212491..3212494	IN:3203528..3210665	0.9814	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3201706, 3203527, 3210666, 3212490
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3460545..3469936	pass	motif:TGCA	TSD:CCCAC	3460540..3460544	3469937..3469941	IN:3461819..3468643	0.964	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3460545, 3461818, 3468644, 3469936
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3437028..3445507	truncated	motif:CGAA	TSD:TCAA	3437024..3437027	3445507..3445510	IN:3437510..3445029	0.9564	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3437028, 3437509, 3445030, 3445507
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:3498113..3488974	false	motif:CCCT	TSD:ATTCA	3488969..3488973	3498114..3498118	IN:3489927..3497152	0.9885	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3488974, 3489926, 3497153, 3498113
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3498440..3488948	pass	motif:TGCA	TSD:CCAGT	3488943..3488947	3498441..3498445	IN:3490278..3497126	0.98	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3488948, 3490277, 3497127, 3498440
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3518305..3523854	pass	motif:TGCA	TSD:AACGC	3518300..3518304	3523855..3523859	IN:3518657..3523497	0.969	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3518305, 3518656, 3523498, 3523854
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3634900..3623572	false	motif:TACA	TSD:CACCC	3623567..3623571	3634901..3634905	IN:3626543..3631915	0.9873	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3623572, 3626542, 3631916, 3634900
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3586409..3596684	pass	motif:TGCA	TSD:TCCTT	3586404..3586408	3596685..3596689	IN:3588836..3594256	0.996	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3586409, 3588835, 3594257, 3596684
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3634896..3623288	pass	motif:TGCA	TSD:CTACC	3623283..3623287	3634897..3634901	IN:3626543..3631646	0.991	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3623288, 3626542, 3631647, 3634896
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3637408..3646350	pass	motif:TGCA	TSD:GTGAC	3637403..3637407	3646351..3646355	IN:3638649..3645091	0.979	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3637408, 3638648, 3645092, 3646350
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3538004..3547581	pass	motif:TGCA	TSD:GATCT	3537999..3538003	3547582..3547586	IN:3539338..3546228	0.985	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3538004, 3539337, 3546229, 3547581
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3833558..3819930	truncated	motif:TGAA	TSD:AATG	3819926..3819929	3833559..3833562	IN:3823953..3829532	0.988	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3819930, 3823952, 3829533, 3833558
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3651619..3660335	false	motif:NA	TSD:NA	..	..	IN:3651843..3660111	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3651619, 3651842, 3660112, 3660335
+	TSD-LTR overlap: 7311954
+	Boundary missing: 0
+
+NC_050098.1:3687804..3678988	pass	motif:TGCA	TSD:CTTCC	3678983..3678987	3687805..3687809	IN:3680283..3686487	0.955	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3678988, 3680282, 3686488, 3687804
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3705836..3717116	pass	motif:TGCA	TSD:ATAGG	3705831..3705835	3717117..3717121	IN:3707873..3715081	0.989	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3705836, 3707872, 3715082, 3717116
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3586409..3596684	pass	motif:TGCA	TSD:TCCTT	3586404..3586408	3596685..3596689	IN:3588836..3594256	0.9959	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3586409, 3588835, 3594257, 3596684
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3751733..3747506	pass	motif:TGCA	TSD:TTATG	3747501..3747505	3751734..3751738	IN:3748159..3751117	0.936	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3747506, 3748158, 3751118, 3751733
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3783590..3796432	false	motif:GGCC	TSD:TCGG	3783586..3783589	3796433..3796436	IN:3784351..3795660	0.9521	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3783590, 3784350, 3795661, 3796432
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3833558..3819930	truncated	motif:TGAA	TSD:AATG	3819926..3819929	3833559..3833562	IN:3823965..3829533	0.9851	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3819930, 3823964, 3829534, 3833558
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3751705..3747584	false	motif:CGTC	TSD:GCGGA	3747579..3747583	3751706..3751710	IN:3748120..3751174	0.9628	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3747584, 3748119, 3751175, 3751705
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3896696..3891492	pass	motif:TGCA	TSD:ATAGG	3891487..3891491	3896697..3896701	IN:3892209..3895980	0.997	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3891492, 3892208, 3895981, 3896696
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4060444..4053049	pass	motif:TGCA	TSD:ATATT	4053044..4053048	4060445..4060449	IN:4053692..4059801	1	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4053049, 4053691, 4059802, 4060444
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3938361..3929057	pass	motif:TGCA	TSD:GGTGC	3929052..3929056	3938362..3938366	IN:3930334..3937065	0.955	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3929057, 3930333, 3937066, 3938361
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3896696..3891492	truncated	motif:TGCA	TSD:ATAGG	3891487..3891491	3896697..3896701	IN:3892209..3895979	0.9958	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3891492, 3892208, 3895980, 3896696
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4044418..4052741	false	motif:GACG	TSD:CACCG	4044413..4044417	4052742..4052746	IN:4044732..4052434	0.9397	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4044418, 4044731, 4052435, 4052741
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3980683..3971204	false	motif:TGCA	TSD:ATGAC	3971199..3971203	3980684..3980688	IN:3972524..3979363	0.998	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3971204, 3972523, 3979364, 3980683
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3949054..3939620	pass	motif:TGCA	TSD:CCCGT	3939615..3939619	3949055..3949059	IN:3940926..3947750	0.995	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3939620, 3940925, 3947751, 3949054
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3848375..3836084	false	motif:TGCG	TSD:GGCG	3836080..3836083	3848376..3848379	IN:3836904..3847541	0.9305	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3836084, 3836903, 3847542, 3848375
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:3949054..3939620	pass	motif:TGCA	TSD:CCCGT	3939615..3939619	3949055..3949059	IN:3940926..3947750	0.9946	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 3939620, 3940925, 3947751, 3949054
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4006240..4020794	pass	motif:TGCA	TSD:ATGGG	4006235..4006239	4020795..4020799	IN:4006873..4020161	0.986	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4006240, 4006872, 4020162, 4020794
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4023086..4031722	pass	motif:TGCA	TSD:AAAAT	4023081..4023085	4031723..4031727	IN:4024607..4030218	0.977	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4023086, 4024606, 4030219, 4031722
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4076793..4085743	pass	motif:TGCA	TSD:CTAAC	4076788..4076792	4085744..4085748	IN:4078046..4084471	0.98	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4076793, 4078045, 4084472, 4085743
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4077135..4085743	false	motif:TACA	TSD:CTAA	4077131..4077134	4085744..4085747	IN:4078046..4084834	0.9912	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4077135, 4078045, 4084835, 4085743
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4157848..4148550	pass	motif:TGCA	TSD:GAGAG	4148545..4148549	4157849..4157853	IN:4149805..4156636	0.947	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4148550, 4149804, 4156637, 4157848
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4157736..4165125	false	motif:GGCC	TSD:CCTT	4157731..4157734	4165125..4165128	IN:4157855..4164997	0.8516	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4157736, 4157854, 4164998, 4165125
+	TSD-LTR overlap: 2
+	Boundary missing: 0
+
+NC_050098.1:4117374..4107239	false	motif:TATA	TSD:CAAT	4107235..4107238	4117375..4117378	IN:4110405..4114191	0.9874	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4107239, 4110404, 4114192, 4117374
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4178182..4168597	pass	motif:TGCA	TSD:TAGCG	4168592..4168596	4178183..4178187	IN:4169192..4177587	0.992	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4168597, 4169191, 4177588, 4178182
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4243751..4252980	pass	motif:TGCA	TSD:GCCGC	4243746..4243750	4252981..4252985	IN:4244966..4251741	0.974	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4243751, 4244965, 4251742, 4252980
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4285143..4294517	pass	motif:TGCA	TSD:GTACC	4285138..4285142	4294518..4294522	IN:4285726..4293934	0.997	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4285143, 4285725, 4293935, 4294517
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4345323..4331596	truncated	motif:TACC	TSD:TACTG	4331591..4331595	4345324..4345328	IN:4335633..4341291	0.997	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4331596, 4335632, 4341292, 4345323
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4327172..4318808	false	motif:GGAC	TSD:CTGCG	4318803..4318807	4327173..4327177	IN:4319132..4326837	0.8542	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4318808, 4319131, 4326838, 4327172
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4345325..4331598	pass	motif:TGCA	TSD:CCTAC	4331593..4331597	4345326..4345330	IN:4335633..4341290	0.998	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4331598, 4335632, 4341291, 4345325
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4584342..4593268	pass	motif:TGCA	TSD:GCCCT	4584337..4584341	4593269..4593273	IN:4585609..4592024	0.968	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4584342, 4585608, 4592025, 4593268
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4513155..4518340	pass	motif:TGCA	TSD:CCATG	4513150..4513154	4518341..4518345	IN:4513850..4517623	0.964	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4513155, 4513849, 4517624, 4518340
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4634171..4646257	false	motif:TTCA	TSD:AACA	4634166..4634169	4646258..4646261	IN:4634343..4646067	0.8526	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4634171, 4634342, 4646068, 4646257
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:4471374..4485841	pass	motif:TGCA	TSD:AGTTG	4471369..4471373	4485842..4485846	IN:4473326..4483890	0.993	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4471374, 4473325, 4483891, 4485841
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4471374..4485841	pass	motif:TGCA	TSD:AGTTG	4471369..4471373	4485842..4485846	IN:4473326..4483890	0.9933	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4471374, 4473325, 4483891, 4485841
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4434006..4443861	pass	motif:TGCA	TSD:GCAAA	4434001..4434005	4443862..4443866	IN:4437368..4440427	0.943	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4434006, 4437367, 4440428, 4443861
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4671655..4683114	pass	motif:TGCA	TSD:ACCGG	4671650..4671654	4683115..4683119	IN:4672125..4682644	0.981	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4671655, 4672124, 4682645, 4683114
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4683384..4698684	false	motif:AGCA	TSD:GCCTC	4683379..4683383	4698685..4698689	IN:4684267..4697804	0.949	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4683384, 4684266, 4697805, 4698684
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4792077..4797494	false	motif:TATA	TSD:AGATT	4792072..4792076	4797495..4797499	IN:4792812..4796764	0.928	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4792077, 4792811, 4796765, 4797494
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4749098..4761782	false	motif:TACG	TSD:CCGC	4749094..4749097	4761783..4761786	IN:4749523..4761370	0.9647	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4749098, 4749522, 4761371, 4761782
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4813829..4823391	false	motif:GTCA	TSD:GCTGA	4813824..4813828	4823392..4823396	IN:4813968..4823250	0.8732	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4813829, 4813967, 4823251, 4823391
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4796659..4804668	truncated	motif:TGCA	TSD:GGGG	4796655..4796658	4804669..4804672	IN:4798462..4802858	0.93	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4796659, 4798461, 4802859, 4804668
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4977898..4984785	false	motif:TTCA	TSD:AAGT	4977894..4977897	4984786..4984789	IN:4978136..4984548	0.9748	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4977898, 4978135, 4984549, 4984785
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4862985..4872465	pass	motif:TGCA	TSD:TAGCA	4862980..4862984	4872466..4872470	IN:4864297..4871154	0.982	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4862985, 4864296, 4871155, 4872465
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4812760..4824667	pass	motif:TGCA	TSD:GTGTT	4812755..4812759	4824668..4824672	IN:4815193..4822235	0.999	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4812760, 4815192, 4822236, 4824667
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4863197..4871590	false	motif:GGAC	TSD:TGTCC	4863192..4863196	4871591..4871595	IN:4863445..4871344	0.9556	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4863197, 4863444, 4871345, 4871590
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4893269..4884089	truncated	motif:TGCA	TSD:CTTG	4884085..4884088	4893270..4893273	IN:4884429..4892924	0.9101	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4884089, 4884428, 4892925, 4893269
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4749102..4763052	pass	motif:TGCA	TSD:CTACT	4749097..4749101	4763053..4763057	IN:4750770..4761370	0.984	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4749102, 4750769, 4761371, 4763052
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5050071..5035663	truncated	motif:TGCA	TSD:GTGCT	5035658..5035662	5050072..5050076	IN:5036300..5049442	0.9781	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5035663, 5036299, 5049443, 5050071
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5096088..5086636	false	motif:CTCC	TSD:GCCCC	5086631..5086635	5096089..5096093	IN:5087010..5095720	0.9786	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5086636, 5087009, 5095721, 5096088
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5133318..5124901	false	motif:TGCA	TSD:CCGG	5124897..5124900	5133319..5133322	IN:5125167..5133049	0.9703	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5124901, 5125166, 5133050, 5133318
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5098990..5109585	truncated	motif:TGCA	TSD:CTTTC	5098985..5098989	5109586..5109590	IN:5102471..5106100	0.9977	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5098990, 5102470, 5106101, 5109585
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:4975656..4984785	pass	motif:TGCA	TSD:AAGTA	4975651..4975655	4984786..4984790	IN:4978136..4982304	0.994	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 4975656, 4978135, 4982305, 4984785
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5096677..5084782	pass	motif:TGCA	TSD:TCTAA	5084777..5084781	5096678..5096682	IN:5087591..5093885	0.98	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5084782, 5087590, 5093886, 5096677
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5133739..5124267	pass	motif:TGCA	TSD:GTATC	5124262..5124266	5133740..5133744	IN:5125553..5132435	0.962	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5124267, 5125552, 5132436, 5133739
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5171873..5175111	false	motif:GGGA	TSD:TCTG	5171868..5171871	5175112..5175115	IN:5172037..5174944	0.9341	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5171873, 5172036, 5174945, 5175111
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:5171310..5157747	pass	motif:TGCA	TSD:CAAAC	5157742..5157746	5171311..5171315	IN:5159318..5169738	0.99	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5157747, 5159317, 5169739, 5171310
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5050071..5035663	pass	motif:TGCA	TSD:GTGCT	5035658..5035662	5050072..5050076	IN:5036292..5049442	0.99	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5035663, 5036291, 5049443, 5050071
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5319191..5331087	pass	motif:TGCA	TSD:TATAC	5319186..5319190	5331088..5331092	IN:5320796..5329474	0.969	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5319191, 5320795, 5329475, 5331087
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5397855..5407250	false	motif:TACT	TSD:TTCTG	5397850..5397854	5407251..5407255	IN:5398913..5406202	0.9811	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5397855, 5398912, 5406203, 5407250
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5194608..5187094	pass	motif:TGCA	TSD:GAGCT	5187089..5187093	5194609..5194613	IN:5187792..5193910	0.996	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5187094, 5187791, 5193911, 5194608
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5451900..5443900	pass	motif:TGCA	TSD:GAGAG	5443895..5443899	5451901..5451905	IN:5445171..5450617	0.968	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5443900, 5445170, 5450618, 5451900
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5308511..5299037	pass	motif:TGCA	TSD:ATAAG	5299032..5299036	5308512..5308516	IN:5300369..5307197	0.98	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5299037, 5300368, 5307198, 5308511
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5409017..5415803	truncated	motif:GACG	TSD:GGTGT	5409012..5409016	5415804..5415808	IN:5410054..5414781	0.9817	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5409017, 5410053, 5414782, 5415803
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5319658..5331083	false	motif:GGCC	TSD:GACA	5319654..5319657	5331084..5331087	IN:5320796..5329936	0.9564	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5319658, 5320795, 5329937, 5331083
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5397853..5409020	pass	motif:TGCA	TSD:TGTTC	5397848..5397852	5409021..5409025	IN:5400672..5406202	0.998	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5397853, 5400671, 5406203, 5409020
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5199990..5211627	pass	motif:TGCA	TSD:ACTAG	5199985..5199989	5211628..5211632	IN:5200468..5211149	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5199990, 5200467, 5211150, 5211627
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5451515..5444653	false	motif:CGGC	TSD:GCCAA	5444648..5444652	5451516..5451520	IN:5444787..5451388	0.8815	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5444653, 5444786, 5451389, 5451515
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5589416..5575298	pass	motif:TGCA	TSD:AAAAG	5575293..5575297	5589417..5589421	IN:5577177..5587537	0.974	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5575298, 5577176, 5587538, 5589416
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5456999..5464512	pass	motif:TGCA	TSD:AATAC	5456994..5456998	5464513..5464517	IN:5457698..5463813	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5456999, 5457697, 5463814, 5464512
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5608836..5596465	pass	motif:TGCA	TSD:CAAAT	5596460..5596464	5608837..5608841	IN:5598134..5607167	0.982	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5596465, 5598133, 5607168, 5608836
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5638951..5627158	pass	motif:TGCA	TSD:GCTTT	5627153..5627157	5638952..5638956	IN:5629930..5636201	0.973	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5627158, 5629929, 5636202, 5638951
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5664833..5673100	false	motif:CGAA	TSD:CCCT	5664829..5664832	5673100..5673103	IN:5664962..5672967	0.8872	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5664833, 5664961, 5672968, 5673100
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:5638185..5629015	false	motif:TGAA	TSD:CCGCC	5629010..5629014	5638186..5638190	IN:5629172..5638033	0.8726	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5629015, 5629171, 5638034, 5638185
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5742946..5751709	pass	motif:TGCA	TSD:ATAAC	5742941..5742945	5751710..5751714	IN:5744574..5750085	0.995	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5742946, 5744573, 5750086, 5751709
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5789034..5776727	false	motif:CGCA	TSD:GAAGA	5776722..5776726	5789035..5789039	IN:5776995..5788765	0.8918	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5776727, 5776994, 5788766, 5789034
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5918111..5906620	false	motif:GGCG	TSD:CCGA	5906616..5906619	5918112..5918115	IN:5907942..5916778	0.9857	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5906620, 5907941, 5916779, 5918111
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5918346..5906614	pass	motif:TGCA	TSD:GGCGG	5906609..5906613	5918347..5918351	IN:5908156..5916778	0.978	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5906614, 5908155, 5916779, 5918346
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5952860..5961002	false	motif:TGCA	TSD:CCGG	5952856..5952859	5961003..5961006	IN:5952971..5960895	0.9369	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5952860, 5952970, 5960896, 5961002
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5977099..5986200	pass	motif:TGCA	TSD:GTGCT	5977094..5977098	5986201..5986205	IN:5980867..5982432	0.9992	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5977099, 5980866, 5982433, 5986200
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5977099..5986200	pass	motif:TGCA	TSD:GTGCT	5977094..5977098	5986201..5986205	IN:5980867..5982432	0.999	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5977099, 5980866, 5982433, 5986200
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5997705..5987852	pass	motif:TGCA	TSD:GATAT	5987847..5987851	5997706..5997710	IN:5989351..5996225	0.986	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5987852, 5989350, 5996226, 5997705
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6156665..6166040	pass	motif:TGCA	TSD:CCAGC	6156660..6156664	6166041..6166045	IN:6157964..6164741	0.977	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6156665, 6157963, 6164742, 6166040
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:5997392..5988961	truncated	motif:GGGG	TSD:AGGCC	5988956..5988960	5997393..5997397	IN:5989124..5997213	0.85	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 5988961, 5989123, 5997214, 5997392
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6188672..6175936	pass	motif:TGCA	TSD:CGTGC	6175931..6175935	6188673..6188677	IN:6179167..6185439	0.981	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6175936, 6179166, 6185440, 6188672
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6015470..6022845	pass	motif:TGCA	TSD:CCCAT	6015465..6015469	6022846..6022850	IN:6016126..6022189	0.995	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6015470, 6016125, 6022190, 6022845
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6214262..6204995	pass	motif:TGCA	TSD:TACAC	6204990..6204994	6214263..6214267	IN:6206232..6213037	0.986	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6204995, 6206231, 6213038, 6214262
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6220315..6229772	pass	motif:TGCA	TSD:AAATC	6220310..6220314	6229773..6229777	IN:6221651..6228462	0.975	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6220315, 6221650, 6228463, 6229772
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6288244..6279267	pass	motif:TGCA	TSD:CTTCT	6279262..6279266	6288245..6288249	IN:6280541..6286970	1	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6279267, 6280540, 6286971, 6288244
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6464055..6454670	pass	motif:TGCA	TSD:GGCGG	6454665..6454669	6464056..6464060	IN:6455388..6463336	0.989	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6454670, 6455387, 6463337, 6464055
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6323398..6313886	pass	motif:TGCA	TSD:CATGT	6313881..6313885	6323399..6323403	IN:6315206..6322095	0.986	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6313886, 6315205, 6322096, 6323398
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6333876..6348654	truncated	motif:TCCT	TSD:CCCA	6333872..6333875	6348655..6348658	IN:6336925..6345599	0.9882	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6333876, 6336924, 6345600, 6348654
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6555580..6545428	pass	motif:TGCA	TSD:GATGA	6545423..6545427	6555581..6555585	IN:6548689..6552321	0.995	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6545428, 6548688, 6552322, 6555580
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6441633..6432199	pass	motif:TGCA	TSD:CCGCC	6432194..6432198	6441634..6441638	IN:6433507..6440326	0.99	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6432199, 6433506, 6440327, 6441633
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6289913..6300990	false	motif:TGCA	TSD:GAGTT	6289908..6289912	6300991..6300995	IN:6291120..6299792	0.949	+	Copia	notLTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6289913, 6291119, 6299793, 6300990
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6288244..6279267	pass	motif:TGCA	TSD:CTTCT	6279262..6279266	6288245..6288249	IN:6280541..6286970	1	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6279267, 6280540, 6286971, 6288244
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6289911..6300074	false	motif:TTCT	TSD:GGGAG	6289905..6289909	6300075..6300079	IN:6290197..6299792	0.9476	+	Copia	notLTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6289911, 6290196, 6299793, 6300074
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:6509053..6518002	pass	motif:TGCA	TSD:CCGGC	6509048..6509052	6518003..6518007	IN:6510716..6516368	0.96	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6509053, 6510715, 6516369, 6518002
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6555590..6545692	false	motif:TCCA	TSD:CAGG	6545688..6545691	6555591..6555594	IN:6548694..6552585	0.9927	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6545692, 6548693, 6552586, 6555590
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6430766..6421315	pass	motif:TGCA	TSD:ACCGC	6421310..6421314	6430767..6430771	IN:6422643..6429467	0.971	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6421315, 6422642, 6429468, 6430766
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6501504..6492015	pass	motif:TGCA	TSD:GTATC	6492010..6492014	6501505..6501509	IN:6493337..6500182	0.999	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6492015, 6493336, 6500183, 6501504
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6592265..6599020	pass	motif:TGCA	TSD:ACTAC	6592260..6592264	6599021..6599025	IN:6592518..6598767	0.992	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6592265, 6592517, 6598768, 6599020
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6622393..6631481	pass	motif:TGCA	TSD:GTAAC	6622388..6622392	6631482..6631486	IN:6623559..6630293	0.95	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6622393, 6623558, 6630294, 6631481
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6509552..6516956	false	motif:TGCA	TSD:CGGAC	6509547..6509551	6516957..6516961	IN:6509682..6516816	0.9071	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6509552, 6509681, 6516817, 6516956
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6700772..6711321	pass	motif:TGCA	TSD:GCTCA	6700767..6700771	6711322..6711326	IN:6704239..6707853	0.987	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6700772, 6704238, 6707854, 6711321
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6766835..6771606	pass	motif:TGCA	TSD:GATCC	6766830..6766834	6771607..6771611	IN:6767549..6770870	0.969	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6766835, 6767548, 6770871, 6771606
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6766838..6771542	false	motif:TCTC	TSD:CCTGT	6766833..6766837	6771543..6771547	IN:6767499..6770870	0.9747	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6766838, 6767498, 6770871, 6771542
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6743835..6731096	pass	motif:TGCA	TSD:GCCTC	6731091..6731095	6743836..6743840	IN:6732591..6742339	0.989	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6731096, 6732590, 6742340, 6743835
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7014441..7023396	false	motif:GGCG	TSD:TGCAT	7014436..7014440	7023397..7023401	IN:7014543..7023293	0.9135	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7014441, 7014542, 7023294, 7023396
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7081382..7075494	false	motif:TGTC	TSD:CTGCG	7075489..7075493	7081383..7081387	IN:7075841..7081032	0.9801	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7075494, 7075840, 7081033, 7081382
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6931555..6941270	pass	motif:TGCA	TSD:ATAAT	6931550..6931554	6941271..6941275	IN:6932142..6940683	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6931555, 6932141, 6940684, 6941270
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6804285..6796135	false	motif:TGCC	TSD:CTCT	6796130..6796133	6804286..6804289	IN:6796519..6803898	0.8863	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6796135, 6796518, 6803899, 6804285
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:6813207..6803884	pass	motif:TGCA	TSD:AGATC	6803879..6803883	6813208..6813212	IN:6805178..6811894	0.973	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6803884, 6805177, 6811895, 6813207
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:6973035..6988012	pass	motif:TGCA	TSD:ATTAG	6973030..6973034	6988013..6988017	IN:6977415..6983632	1	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 6973035, 6977414, 6983633, 6988012
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7081379..7072510	pass	motif:TGCA	TSD:CGTGG	7072505..7072509	7081380..7081384	IN:7075841..7078059	0.986	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7072510, 7075840, 7078060, 7081379
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7122662..7130598	pass	motif:TGCA	TSD:GCCTC	7122657..7122661	7130599..7130603	IN:7125877..7127383	0.988	+	unknown	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7122662, 7125876, 7127384, 7130598
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7105826..7116971	pass	motif:TGCA	TSD:CACAA	7105821..7105825	7116972..7116976	IN:7109931..7112858	0.993	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7105826, 7109930, 7112859, 7116971
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7092683..7083128	pass	motif:TGCA	TSD:CTCGG	7083123..7083127	7092684..7092688	IN:7084463..7091348	0.999	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7083128, 7084462, 7091349, 7092683
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7198038..7191312	truncated	motif:TGTA	TSD:TTGA	7191308..7191311	7198039..7198042	IN:7193845..7195515	0.985	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7191312, 7193844, 7195516, 7198038
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7179237..7165822	pass	motif:TGCA	TSD:TGTAC	7165817..7165821	7179238..7179242	IN:7169385..7175678	0.983	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7165822, 7169384, 7175679, 7179237
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7207685..7217106	pass	motif:TGCA	TSD:CCCTT	7207680..7207684	7217107..7217111	IN:7209011..7215801	0.963	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7207685, 7209010, 7215802, 7217106
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7207695..7216044	false	motif:TTCA	TSD:GGGAA	7207690..7207694	7216045..7216049	IN:7207935..7215800	0.9098	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7207695, 7207934, 7215801, 7216044
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7228497..7221104	truncated	motif:TGGA	TSD:CGGC	7221100..7221103	7228498..7228501	IN:7221782..7227824	0.9617	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7221104, 7221781, 7227825, 7228497
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7228497..7221114	pass	motif:TGCA	TSD:CCGGC	7221109..7221113	7228498..7228502	IN:7221782..7227830	0.97	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7221114, 7221781, 7227831, 7228497
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7262109..7269037	false	motif:GCCC	TSD:AACAC	7262104..7262108	7269038..7269042	IN:7262452..7268691	0.9452	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7262109, 7262451, 7268692, 7269037
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7245992..7232318	pass	motif:TGCA	TSD:GAGAC	7232313..7232317	7245993..7245997	IN:7236018..7242290	0.994	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7232318, 7236017, 7242291, 7245992
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7291602..7275616	truncated	motif:TGCA	TSD:TTCTT	7275611..7275615	7291603..7291607	IN:7276469..7290758	0.893	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7275616, 7276468, 7290759, 7291602
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7371692..7361774	pass	motif:TGCA	TSD:CACGC	7361769..7361773	7371693..7371697	IN:7365048..7368415	0.989	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7361774, 7365047, 7368416, 7371692
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7371695..7362036	false	motif:CGCC	TSD:CACA	7362031..7362034	7371696..7371699	IN:7365048..7368675	0.9877	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7362036, 7365047, 7368676, 7371695
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:7284297..7276866	pass	motif:TGCA	TSD:CTATG	7276861..7276865	7284298..7284302	IN:7277554..7283609	0.988	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7276866, 7277553, 7283610, 7284297
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7473031..7483351	truncated	motif:TGCA	TSD:ATCCC	7473026..7473030	7483352..7483356	IN:7473508..7482876	0.967	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7473031, 7473507, 7482877, 7483351
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7508045..7495981	false	motif:TGCG	TSD:CCGG	7495977..7495980	7508046..7508049	IN:7496781..7507247	0.9862	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7495981, 7496780, 7507248, 7508045
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7443757..7458067	pass	motif:TGCA	TSD:CTTGG	7443752..7443756	7458068..7458072	IN:7444387..7457437	0.983	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7443757, 7444386, 7457438, 7458067
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7525843..7518402	pass	motif:TGCA	TSD:CCCCT	7518397..7518401	7525844..7525848	IN:7519072..7525172	0.996	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7518402, 7519071, 7525173, 7525843
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7473036..7483330	truncated	motif:GGGC	TSD:TGTTG	7473030..7473034	7483331..7483335	IN:7473490..7482876	0.9692	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7473036, 7473489, 7482877, 7483330
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:7784813..7776715	false	motif:GTCT	TSD:CTCAA	7776710..7776714	7784814..7784818	IN:7777145..7784383	0.935	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7776715, 7777144, 7784384, 7784813
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7469848..7462237	false	motif:TACT	TSD:ATCC	7462233..7462236	7469849..7469852	IN:7462440..7469632	0.9167	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7462237, 7462439, 7469633, 7469848
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7508742..7495987	pass	motif:TGCA	TSD:CCCCC	7495982..7495986	7508743..7508747	IN:7497441..7507247	0.971	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7495987, 7497440, 7507248, 7508742
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7549541..7558294	truncated	motif:TGTA	TSD:GTCAT	7549536..7549540	7558295..7558299	IN:7553267..7554564	0.9861	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7549541, 7553266, 7554565, 7558294
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7801656..7813235	pass	motif:TGCA	TSD:ACCGG	7801651..7801655	7813236..7813240	IN:7804320..7810600	0.967	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7801656, 7804319, 7810601, 7813235
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7730159..7718781	pass	motif:TGCA	TSD:GGAGA	7718776..7718780	7730160..7730164	IN:7719250..7729690	0.968	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7718781, 7719249, 7729691, 7730159
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7872751..7880227	pass	motif:TGCA	TSD:CCGTC	7872746..7872750	7880228..7880232	IN:7872934..7880044	0.984	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7872751, 7872933, 7880045, 7880227
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7858619..7854341	pass	motif:TGCA	TSD:CACGT	7854336..7854340	7858620..7858624	IN:7855026..7857982	0.915	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7854341, 7855025, 7857983, 7858619
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7836074..7842094	pass	motif:TGCA	TSD:AATAG	7836069..7836073	7842095..7842099	IN:7836344..7841824	0.985	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7836074, 7836343, 7841825, 7842094
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7903679..7912615	pass	motif:TGCA	TSD:AGTAT	7903674..7903678	7912616..7912620	IN:7904920..7911352	0.976	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7903679, 7904919, 7911353, 7912615
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7928643..7938071	pass	motif:TGCA	TSD:GGTAC	7928638..7928642	7938072..7938076	IN:7929971..7936765	0.976	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7928643, 7929970, 7936766, 7938071
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7976054..7962461	pass	motif:TGCA	TSD:GCTAG	7962456..7962460	7976055..7976059	IN:7964071..7974444	0.896	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7962461, 7964070, 7974445, 7976054
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:7903905..7912619	false	motif:TCTA	TSD:TTCGG	7903900..7903904	7912620..7912624	IN:7904920..7911600	0.9843	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 7903905, 7904919, 7911601, 7912619
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8023309..8037403	pass	motif:TGCA	TSD:GGGTC	8023304..8023308	8037404..8037408	IN:8024990..8035722	0.973	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8023309, 8024989, 8035723, 8037403
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8143819..8150698	pass	motif:TGCA	TSD:GCTGC	8143814..8143818	8150699..8150703	IN:8144678..8149830	0.977	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8143819, 8144677, 8149831, 8150698
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8125445..8117006	truncated	motif:TGCC	TSD:CCCT	8117001..8117004	8125446..8125449	IN:8118252..8124201	0.9872	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8117006, 8118251, 8124202, 8125445
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:8056243..8057426	false	motif:TCCT	TSD:GGCA	8056239..8056242	8057427..8057430	IN:8056343..8057312	0.8596	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8056243, 8056342, 8057313, 8057426
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8085540..8099646	pass	motif:TGCA	TSD:ATCTC	8085535..8085539	8099647..8099651	IN:8086162..8099024	0.998	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8085540, 8086161, 8099025, 8099646
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8177308..8166505	pass	motif:TGCA	TSD:GTAAA	8166500..8166504	8177309..8177313	IN:8166977..8176836	0.989	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8166505, 8166976, 8176837, 8177308
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8274411..8276211	false	motif:CGCT	TSD:AACAC	8274406..8274410	8276212..8276216	IN:8274730..8275890	0.9658	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8274411, 8274729, 8275891, 8276211
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8223989..8237956	truncated	motif:ATCG	TSD:ACAGT	8223984..8223988	8237957..8237961	IN:8225730..8236222	0.9897	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8223989, 8225729, 8236223, 8237956
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8223992..8237959	pass	motif:TGCA	TSD:GTATC	8223987..8223991	8237960..8237964	IN:8225730..8236221	0.994	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8223992, 8225729, 8236222, 8237959
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8252524..8254239	truncated	motif:TGCA	TSD:TAAAT	8252519..8252523	8254240..8254244	IN:8252994..8253766	0.9895	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8252524, 8252993, 8253767, 8254239
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8305361..8311208	false	motif:TGCA	TSD:TAGTA	8305356..8305360	8311209..8311213	IN:8305762..8310807	0.995	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8305361, 8305761, 8310808, 8311208
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8316085..8327595	pass	motif:TGCA	TSD:CGTCC	8316080..8316084	8327596..8327600	IN:8318672..8324944	0.961	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8316085, 8318671, 8324945, 8327595
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8340011..8330256	false	motif:GGGC	TSD:CGGCC	8330251..8330255	8340011..8340015	IN:8330583..8339674	0.9645	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8330256, 8330582, 8339675, 8340011
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:8316075..8325460	false	motif:TGCC	TSD:CGTC	8316071..8316074	8325460..8325463	IN:8316612..8324944	0.9404	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8316075, 8316611, 8324945, 8325460
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:8372101..8360130	pass	motif:TGCA	TSD:AAGG	8360126..8360129	8372102..8372105	IN:8363178..8369031	0.978	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8360130, 8363177, 8369032, 8372101
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8372101..8362671	false	motif:TGAA	TSD:AAGG	8362666..8362669	8372102..8372105	IN:8363178..8371596	0.9921	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8362671, 8363177, 8371597, 8372101
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:8381557..8395213	pass	motif:TGCA	TSD:TTAGT	8381552..8381556	8395214..8395218	IN:8385582..8391212	0.988	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8381557, 8385581, 8391213, 8395213
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8430975..8417284	pass	motif:TGCA	TSD:GACCG	8417279..8417283	8430976..8430980	IN:8420982..8427270	0.996	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8417284, 8420981, 8427271, 8430975
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8477580..8465243	pass	motif:TGCA	TSD:AGTCG	8465238..8465242	8477581..8477585	IN:8466871..8475958	0.983	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8465243, 8466870, 8475959, 8477580
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8503263..8517001	pass	motif:TGCA	TSD:GCACT	8503258..8503262	8517002..8517006	IN:8504749..8515511	0.954	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8503263, 8504748, 8515512, 8517001
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8522593..8530017	pass	motif:TGCA	TSD:CCTAC	8522588..8522592	8530018..8530022	IN:8523299..8529312	0.993	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8522593, 8523298, 8529313, 8530017
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8627836..8612824	pass	motif:TGCA	TSD:CCAAG	8612819..8612823	8627837..8627841	IN:8617193..8623463	0.992	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8612824, 8617192, 8623464, 8627836
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8648137..8661022	pass	motif:TGCA	TSD:ATACC	8648132..8648136	8661023..8661027	IN:8651694..8657471	0.99	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8648137, 8651693, 8657472, 8661022
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8719676..8728145	false	motif:TAGA	TSD:GGTG	8719672..8719675	8728146..8728149	IN:8720898..8726924	0.9812	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8719676, 8720897, 8726925, 8728145
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8719192..8728125	pass	motif:TGCA	TSD:AGTTG	8719187..8719191	8728126..8728130	IN:8720888..8726509	0.949	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8719192, 8720887, 8726510, 8728125
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8753525..8744083	pass	motif:TGCA	TSD:ATGTA	8744078..8744082	8753526..8753530	IN:8745352..8752175	0.929	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8744083, 8745351, 8752176, 8753525
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8800799..8789433	truncated	motif:GGAC	TSD:AAGAC	8789428..8789432	8800800..8800804	IN:8790567..8799667	0.9956	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8789433, 8790566, 8799668, 8800799
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8802896..8814869	pass	motif:TGCA	TSD:TCCGC	8802891..8802895	8814870..8814874	IN:8803511..8814254	0.993	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8802896, 8803510, 8814255, 8814869
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8856071..8866454	truncated	motif:TGCA	TSD:ACATT	8856066..8856070	8866455..8866459	IN:8857577..8864991	0.948	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8856071, 8857576, 8864992, 8866454
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8906811..8899443	pass	motif:TGCA	TSD:AGCTC	8899438..8899442	8906812..8906816	IN:8900086..8906168	1	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8899443, 8900085, 8906169, 8906811
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8978830..8987784	false	motif:CAAA	TSD:GCGCG	8978823..8978827	8987785..8987789	IN:8979635..8986978	0.9888	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8978830, 8979634, 8986979, 8987784
+	TSD-LTR overlap: 2
+	Boundary missing: 0
+
+NC_050098.1:8937316..8927880	pass	motif:TGCA	TSD:GTTAC	8927875..8927879	8937317..8937321	IN:8929208..8936019	0.967	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8927880, 8929207, 8936020, 8937316
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8978325..8987783	pass	motif:TGCA	TSD:AGCGC	8978320..8978324	8987784..8987788	IN:8979635..8986460	0.977	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8978325, 8979634, 8986461, 8987783
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:8952688..8938564	pass	motif:TGCA	TSD:GGTGG	8938559..8938563	8952689..8952693	IN:8940256..8951012	0.97	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 8938564, 8940255, 8951013, 8952688
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9058339..9063132	pass	motif:TGCA	TSD:GTATT	9058334..9058338	9063133..9063137	IN:9059074..9062396	0.986	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9058339, 9059073, 9062397, 9063132
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9030729..9021271	pass	motif:TGCA	TSD:CCCAT	9021266..9021270	9030730..9030734	IN:9022609..9029395	0.995	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9021271, 9022608, 9029396, 9030729
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9031688..9024154	false	motif:GACC	TSD:ATCAA	9024148..9024152	9031689..9031693	IN:9025114..9030730	0.9448	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9024154, 9025113, 9030731, 9031688
+	TSD-LTR overlap: 1
+	Boundary missing: 0
+
+NC_050098.1:9085359..9094326	pass	motif:TGCA	TSD:CTTCC	9085354..9085358	9094327..9094331	IN:9086623..9093061	0.993	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9085359, 9086622, 9093062, 9094326
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9105867..9094333	false	motif:GACA	TSD:AGGAA	9094328..9094332	9105868..9105872	IN:9094859..9105347	0.9545	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9094333, 9094858, 9105348, 9105867
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9126995..9119586	pass	motif:TGCA	TSD:GGTAC	9119581..9119585	9126996..9127000	IN:9120270..9126310	0.99	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9119586, 9120269, 9126311, 9126995
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9226607..9233801	truncated	motif:TGCA	TSD:GCAGT	9226602..9226606	9233802..9233806	IN:9226790..9233628	0.8913	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9226607, 9226789, 9233629, 9233801
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9316450..9306997	pass	motif:TGCA	TSD:TCATC	9306992..9306996	9316451..9316455	IN:9308285..9315119	0.956	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9306997, 9308284, 9315120, 9316450
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9220610..9211086	pass	motif:TGCA	TSD:ATGAC	9211081..9211085	9220611..9220615	IN:9212408..9219288	0.997	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9211086, 9212407, 9219289, 9220610
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9154730..9163912	pass	motif:TGCA	TSD:CCCAT	9154725..9154729	9163913..9163917	IN:9156338..9162325	0.978	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9154730, 9156337, 9162326, 9163912
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9154730..9162984	false	motif:TGCG	TSD:CCCAT	9154725..9154729	9162985..9162989	IN:9155392..9162326	0.9789	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9154730, 9155391, 9162327, 9162984
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9296873..9305115	pass	motif:TGCA	TSD:CGGTC	9296868..9296872	9305116..9305120	IN:9298800..9303239	0.934	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9296873, 9298799, 9303240, 9305115
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9220610..9211086	pass	motif:TGCA	TSD:ATGAC	9211081..9211085	9220611..9220615	IN:9212408..9219288	0.997	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9211086, 9212407, 9219289, 9220610
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9349985..9342523	pass	motif:TGCA	TSD:CTTCT	9342518..9342522	9349986..9349990	IN:9343196..9349312	1	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9342523, 9343195, 9349313, 9349985
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9509310..9518835	pass	motif:TGCA	TSD:GTTAC	9509305..9509309	9518836..9518840	IN:9510630..9517515	0.999	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9509310, 9510629, 9517516, 9518835
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9297640..9304091	false	motif:TGCA	TSD:CCGG	9297636..9297639	9304092..9304095	IN:9297750..9303987	0.9182	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9297640, 9297749, 9303988, 9304091
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9349985..9342523	truncated	motif:TGCA	TSD:CTTCT	9342518..9342522	9349986..9349990	IN:9343198..9349312	0.997	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9342523, 9343197, 9349313, 9349985
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9720336..9729925	pass	motif:TGCA	TSD:GTCGC	9720331..9720335	9729926..9729930	IN:9720936..9729325	0.995	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9720336, 9720935, 9729326, 9729925
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9531211..9541883	pass	motif:TGCA	TSD:CATTG	9531206..9531210	9541884..9541888	IN:9534720..9538375	0.999	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9531211, 9534719, 9538376, 9541883
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9619386..9634404	pass	motif:TGCA	TSD:GCTGA	9619381..9619385	9634405..9634409	IN:9623762..9630028	0.997	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9619386, 9623761, 9630029, 9634404
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9647413..9654204	false	motif:GAGA	TSD:ACTAT	9647408..9647412	9654205..9654209	IN:9647590..9654025	0.8833	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9647413, 9647589, 9654026, 9654204
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9664198..9654713	pass	motif:TGCA	TSD:CTCTC	9654708..9654712	9664199..9664203	IN:9656046..9662872	0.984	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9654713, 9656045, 9662873, 9664198
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9408318..9417304	false	motif:GACA	TSD:AATAC	9408313..9408317	9417305..9417309	IN:9410686..9414938	0.9899	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9408318, 9410685, 9414939, 9417304
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9407209..9417304	pass	motif:TGCA	TSD:AATAC	9407204..9407208	9417305..9417309	IN:9410686..9413769	0.975	?	unknown	NA	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9407209, 9410685, 9413770, 9417304
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9593252..9606114	pass	motif:TGCA	TSD:AGAAG	9593247..9593251	9606115..9606119	IN:9596519..9602783	0.958	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9593252, 9596518, 9602784, 9606114
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9564592..9574134	pass	motif:TGCA	TSD:GGGCT	9564587..9564591	9574135..9574139	IN:9565192..9573535	0.992	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9564592, 9565191, 9573536, 9574134
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9813477..9826095	pass	motif:TGCA	TSD:GACTC	9813472..9813476	9826096..9826100	IN:9816619..9822891	0.947	+	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9813477, 9816618, 9822892, 9826095
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9849047..9854890	pass	motif:TGTA	TSD:CATTT	9849042..9849046	9854891..9854895	IN:9849188..9854749	1	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9849047, 9849187, 9854750, 9854890
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9888160..9897599	pass	motif:TGCA	TSD:CCTTG	9888155..9888159	9897600..9897604	IN:9889477..9896300	0.97	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9888160, 9889476, 9896301, 9897599
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9879763..9868388	false	motif:GTAG	TSD:CCGCC	9868383..9868387	9879764..9879768	IN:9869337..9878810	0.9779	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9868388, 9869336, 9878811, 9879763
+	TSD-LTR overlap: 0
+	Boundary missing: 37
+
+NC_050098.1:9497939..9486246	pass	motif:TGCA	TSD:TGAGC	9486241..9486245	9497940..9497944	IN:9488941..9495241	0.998	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9486246, 9488940, 9495242, 9497939
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9949025..9939357	pass	motif:TGCA	TSD:GTCAC	9939352..9939356	9949026..9949030	IN:9939944..9948438	1	-	Gypsy	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9939357, 9939943, 9948439, 9949025
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9913032..9917772	pass	motif:TGCA	TSD:TGTCT	9913027..9913031	9917773..9917777	IN:9913135..9917669	1	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9913032, 9913134, 9917670, 9917772
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9888170..9896660	false	motif:TTCA	TSD:GGAA	9888166..9888169	9896661..9896664	IN:9888509..9896300	0.925	+	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9888170, 9888508, 9896301, 9896660
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+
+NC_050098.1:9977542..9968272	pass	motif:TGCA	TSD:GTAAC	9968267..9968271	9977543..9977547	IN:9969575..9976239	0.995	-	Copia	LTR	NA
+	Adjust: NO	lLTR: 0	rLTR: 0
+	Alignment regions: 0, 0, 0, 0
+	LTR coordinates: 9968272, 9969574, 9976240, 9977542
+	TSD-LTR overlap: 0
+	Boundary missing: 0
+

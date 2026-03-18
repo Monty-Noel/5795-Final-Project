@@ -1,0 +1,24 @@
+Inverted Repeats Finder Program writen by:
+
+Gary Benson
+Bioinformatics Program
+Boston University
+Version 3.09
+
+
+Sequence: NC_050098.1 + 1690767:1691056|tsd_l:11|tsd_s:1690767|tsd_e:1691064|blast_s:1690767|blast_e:1691056|blast_count:7|blast_l:497|tRNA
+
+
+
+Parameters: 2 3 5 80 10 20 500000 10000 -d -h -t4 74 -t5 493 -t7 10000 
+
+
+
+
+Sequence: NC_050098.1 F 3864579:3864875|tsd_l:11|tsd_s:3864589|tsd_e:3864890|blast_s:3864491|blast_e:3864989|blast_count:16|blast_l:501|tRNA
+
+
+
+Parameters: 2 3 5 80 10 20 500000 10000 -d -h -t4 74 -t5 493 -t7 10000 
+
+
